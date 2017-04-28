@@ -1,0 +1,13 @@
+1.pysrt
+subs = pysrt.open('some/file.srt')
+first_sub = subs[0]
+first_sub.text = "Hello World !"
+first_sub.start.seconds = 20
+first_sub.end.minutes = 5
+2.import os
+os.system("D:\PySceneDetect-0.4-win64-portable\scenedetect -i goldeneye.mp4 -o scenes_list.csv -d content -si -df 4")
+
+3.
+from datetime import datetime
+a = datetime.strptime('00:00:06,620', '%H:%M:%S,%f')
+a.microsecond
