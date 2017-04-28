@@ -18,7 +18,6 @@ def extract_and_ocr(filename, region):
     result = ocr_engine.process_and_download(file, profile='documentConversion',exportFormat='txtUnstructured', language='ChinesePRC,English')
     x=result['txtUnstructured'].read()
     return x
-git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch ./preprocess/ExtractTitlesAndCut.py' --prune-empty --tag-name-filter cat -- --all
     
 all_titles={}
 
