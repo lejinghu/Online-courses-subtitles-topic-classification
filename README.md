@@ -1,6 +1,6 @@
 # Online-courses-subtitles-topic-classification
 <br>
-##Introduction
+## Introduction
 This is my undergraduate research project.<br>
 As MOOC (Massive Open Online Courses) become more and more popular, we hope to find a way to deliver online courses easier for content providers. It is easy to see that videos alone do not make courses. They need to be carefully edited and supplemented by text materials like subtitles. In many occasions, long videos are edited into small separate segments manually with each talking about a single topic. In this project, we hope to make this process automatic by utilizing NLP and OCR technologies. Currently, we require both the videos and the subtitle. But if good speech recognition methods becomes more available in the future, we might try using only the videos. <br>
 ## Environment
