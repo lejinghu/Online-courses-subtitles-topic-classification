@@ -1,4 +1,7 @@
 # Online-courses-subtitles-topic-classification
+<br>
+Tested on Windows 7&8 using Anaconda and Python 3.5<br>
+<br>
 This project uses:<br>
 PySceneDetect: https://github.com/Breakthrough/PySceneDetect<br>
 ABBYY: https://github.com/samueltc/ABBYY<br>
@@ -11,3 +14,6 @@ In the 'preprocess' directory, we put the video files of MOOC courses under the 
 When using "ExtractTitlesAndCut.py", the subtitles are first cut into 5-line text segments, each one representing the sentence in the middle. Then they are given slides' titles as filenames, which are taken through ABBYY OCR from the video images.<br> 
 <br>
 These text segments will be our test files for classification.<br>
+<br>
+Classification uses keras. The base form is taken from https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html<br>
+Training data are obtained from textbooks from digital libraries, for educational purpose only.<br>
