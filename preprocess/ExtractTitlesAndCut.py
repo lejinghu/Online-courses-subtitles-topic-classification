@@ -14,7 +14,7 @@ def extract_and_ocr(filename, region):
     tempfile.seek(0)
     region_data.save(tempfile,"JPEG")
     file={'temp.jpg': tempfile.getvalue()}
-    ocr_engine = CloudOCR(application_id='Data pretreatment for NLP task', password='8hgku1LB17UZQrKNk72DtUaG')
+    ocr_engine = CloudOCR(application_id='', password='')
     result = ocr_engine.process_and_download(file, profile='documentConversion',exportFormat='txtUnstructured', language='ChinesePRC,English')
     x=result['txtUnstructured'].read()
     return x
