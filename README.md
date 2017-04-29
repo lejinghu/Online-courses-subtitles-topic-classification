@@ -19,7 +19,6 @@ We put the video files of MOOC courses under the 'mp4' directory and the subtitl
 We use "CutScene.py" to invoke PySceneDetect which cuts our MOOC videos into scenes, and save the lists of scenes in csv files. The first and last frames of each scene are saved under the main directory. <br>
 <br>
 We "ExtractTitlesAndCut.py" to cut the subtitles into 5-line text segments. Each represents the sentence in the middle. They are then given slides' titles as filenames. The titles are taken through ABBYY OCR from the images. These text segments will be our test files for classification. <br> 
-<br>
 ### Classification
 Classification uses keras. The base code is taken from the [keras blog](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html) <br>
 ## About OCR
