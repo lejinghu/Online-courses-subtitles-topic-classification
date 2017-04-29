@@ -1,0 +1,5 @@
+﻿要存储取值范围最大的整数，可以按如下方式定义变量：
+如前所述，将常量指定为无符号类型时，应添加u，如下所示:
+unsigned int count = 100U; unsigned long value = 999999999UL;
+unsigned long long metersPerLightYear = 946073047258080OULL;
+ULL指定，初始值的类型是unsigned long long。

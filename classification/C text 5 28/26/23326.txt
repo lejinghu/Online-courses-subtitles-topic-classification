@@ -1,0 +1,5 @@
+﻿/*将字符型变量cl赋给整型变量k V /*将整数97赋给字符型变量c2 V
+{ char cl =’a’，c2;
+int k; k = cl; c2 = 97;
+printfif^/oc, %c, %d", cl, c2, cl);
+/*字符变量既可按字符形式输出，也可按整型输出*/ printf("\n %d, %c", k, k);

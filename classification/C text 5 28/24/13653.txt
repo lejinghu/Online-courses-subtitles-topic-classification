@@ -1,0 +1,5 @@
+﻿接下来可以用enum weekday来定义变量，如： enum weekday today, nextday;
+例如，可以定义表示日期的枚举类型weekday:
+enum weekday {sun, mon, tue, wed, thu, fri, sat};
+c语言也允许在定义枚举类型的同时定义枚举变量，如：
+enum weekday {sun, mon, tue, wed, thu, fri, sat} today, nextday;

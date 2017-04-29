@@ -1,0 +1,5 @@
+﻿C is quirky, flawed, and an enormous success. While accidents of history surely helped, it evidently satisfied a need for a system implementation language efficient enough to displace assembly language, yet sufficiently abstract and fluent to describe algorithms and interactions in a wide variety of environments.	-- Dennis M. Ritchie
+fmt <quote
+符号<提示操作系统程序fmt将用读入文件quote来代替键盘输入。把由UNIX、DOS和其他操作 系统支持的这种特性称为是输入重定向（inputredirection) 022.1.2节）。当把给定的文件quote 作为输入时，程序fmt将产生下列输出：
+程序fmt的输出通常将显示在屏幕上，但是可以利用输出重定向（outputredirection)(>22.1.2节) 把结果保存在文件中：
+fmt <quote >newquote

@@ -1,0 +1,5 @@
+﻿本篇将对C语言的历史背景作一个简单介绍。
+附录
+C语言简介
+C语言的历史
+C语言的前身是Martin Richards开发的BCPL语言。1970年Ken Thompson对BCPL语言 进行了改进，发明了 B语言。

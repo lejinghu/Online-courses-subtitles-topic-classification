@@ -1,0 +1,5 @@
+﻿char ch,infile[20],outfile[20];	/定义变量ch和数组infile、outfile/
+FILEfp1,fp2;	/ 定义文件指针 fp1 和 fp2/
+定义变量ch和数组infile、outfile。其中ch用来表7K从文件中读取的字符，infile和outfile 分别用来存放要读取的文件和要写入的文件。代码如下：
+(2 )输人文件名，并存放到infile和outfile中。代码如下:
+01	gets(infile);	/ 输入 infile 的文件名 /

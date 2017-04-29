@@ -1,0 +1,5 @@
+﻿DATE day1;	/*定义变量day1*/
+06	}DATE;	/*定义结构体类型DATE*/
+并定义一个变量dayl,代码如下：
+(2)	输人年、月、日，并调用函数days,代码如下：
+scanf("%d,%d,%d",&day1.year,&day1.month,&day1.day);	/*输入年、月、日，依次存入变量的

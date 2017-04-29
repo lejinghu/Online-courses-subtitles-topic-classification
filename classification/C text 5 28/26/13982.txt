@@ -1,0 +1,5 @@
+﻿字符数据在内存中存储的是字符的ASCII码，即一个无符号整数，其形式与整数的存储形式一 样，因此C语言允许字符型数据与整型数据之间通用.例如：
+/*定义字符型变置*/ /*为变置陚值V
+M			
+char cCharl; char cChar2; cChar1='a'; cChar2=97;
+printf("%c\n",cChar1); printf("%c\n",cChar2);

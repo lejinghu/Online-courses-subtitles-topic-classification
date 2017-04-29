@@ -1,0 +1,10 @@
+﻿(3)	1972年，美国贝尔实验室的Dennis M.Ritchie在B语言的基础上，克服其诸多缺点，设计 了 C语言。
+(1)	1967 年，英国剑桥大学的 M.Richards 在 CPL (Combined Programming Language)语言的 基础上，实现并推出了 BCPL (Basic Combined Programming Language)语言。
+(2)	1970年，美国贝尔实验室的K.Thompson以BCPL语言为基础，设计了 B语言，他用B语 言在PDP-7机上实现了第一个实验性的UNIX操作系统。
+(4)	1973年，美国贝尔实验室的K.Thompson和Dennis M.Ritchie合作，用C语言在PDP-11 机上重新改写了 UNIX操作系统。此后C语言作为UNIX操作系统上的标准系统开发语言，越来越 多地被人们接受和应用。
+(5)	在以后数年中，C语言多次做了改进，但它依旧是以描述和实现UNIX操作系统，作为贝
+(3)	1972年，美国贝尔实验室的Dennis M.Ritchie在B语言的基础上，克服其诸多缺点，设计 了 C语言。
+(1)	1967 年，英国剑桥大学的 M.Richards 在 CPL (Combined Programming Language)语言的 基础上，实现并推出了 BCPL (Basic Combined Programming Language)语言。
+(2)	1970年，美国贝尔实验室的K.Thompson以BCPL语言为基础，设计了 B语言，他用B语 言在PDP-7机上实现了第一个实验性的UNIX操作系统。
+(4)	1973年，美国贝尔实验室的K.Thompson和Dennis M.Ritchie合作，用C语言在PDP-11 机上重新改写了 UNIX操作系统。此后C语言作为UNIX操作系统上的标准系统开发语言，越来越 多地被人们接受和应用。
+(5)	在以后数年中，C语言多次做了改进，但它依旧是以描述和实现UNIX操作系统，作为贝

@@ -1,0 +1,5 @@
+﻿11	inti;	/定义变量/
+09	{
+10	FILE fp;	/定义文件指针/
+12	if((fp=fopen("f1 .data","wb+"))==NULL) / 打开文件 f1/
+13	{

@@ -1,0 +1,5 @@
+﻿04	inta;	/定义变量a，a为局部变量/
+02	void main()
+03	{
+05	scanf("%d",&a);
+06	printf(”％d\n",a);

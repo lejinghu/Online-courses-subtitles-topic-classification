@@ -1,0 +1,5 @@
+﻿如果加《/是有限的，则返回非零值 如果是无限的，则返回非零值 如果^不是数字，则返回非零值 如果是正常值，则返回非零值 如果是负值(即设置了符号位），则返回非零值 对于每一个宏，a和b必须是浮点型。
+C99定义了下列比较宏。
+int isgreater(a? b) int isgreateFequal(a, b) int isLess(a, h) int isleseequal(a, b) int isles8greater( a, b) int isuiKHdered(a, b)
+如果a大于b，则返回非零值 如果a大于或等于b，则返回非零值 如果a小于b，则返回非零值 如果a小于或等于b,则返回非零值 如果a大于或小于b，则返回非零值
+如果a和b之间是无序的，则返回1;如果a和b之间是有序的，则返回0

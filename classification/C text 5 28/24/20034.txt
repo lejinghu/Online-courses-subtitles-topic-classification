@@ -1,0 +1,5 @@
+﻿04	float x;	/*定义变量xV
+02	void main()
+03	{
+05	inty;	/4定义变量，/
+06	printf("请输入一个数:\n");	

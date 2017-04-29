@@ -1,0 +1,5 @@
+﻿有效的变量定义。在结构定义的末尾，最后一个分号之前，您可以指定一个或多个结构变量，这是可选 的。下面是声明Book结构的方式：
+} [one on more structure variables];
+structure tag是可选的，每个member definition是标准的变量定义，比如int i;或者float f;或者其他
+struct Books
+{

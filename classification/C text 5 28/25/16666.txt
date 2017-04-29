@@ -1,0 +1,5 @@
+﻿如果自变t是NaN (参考第15章的fJoat.h).则isnan()宏产生一个非0的值（表示 true),否则，isnan()产生0。此自变量必须是实数的浮点类型。“将浮点型态至少提升 到双精确度以进行数学计算”，这样的原則在这里并没有被采用|自变量的此项属性是由 实际的类型和表现形式决定的。
+#include <math.h> int isnan( float x ); int isnan( double x ); inr. isnan ( long double x );
+s
+范例
+doublp dMax( double a, double b )

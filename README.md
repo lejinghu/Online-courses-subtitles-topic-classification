@@ -2,6 +2,7 @@
 This project uses:<br>
 PySceneDetect: https://github.com/Breakthrough/PySceneDetect<br>
 ABBYY: https://github.com/samueltc/ABBYY<br>
+Keras: https://github.com/fchollet/keras<br>
 <br>
 In the 'preprocess' directory, we put the video files of MOOC courses under the 'mp4' directory and the subtitle files under the 'srt' directory. Their names should match.<br>
 <br>

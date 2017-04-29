@@ -1,0 +1,5 @@
+﻿第1个参数是要被打印的字符。在打印之前，函数把这个整型参数裁剪为一个无符号字符型值，
+int fputc( int character, FILE *stream }； int putc( int character, FILE *stream )；	^
+int putchar( int character )；
+所以
+putchar ( ^bc1 );

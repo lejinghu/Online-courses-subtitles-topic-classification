@@ -1,0 +1,5 @@
+﻿/#定义长整型，为其賦值为-1234567890*/ /*定义浮点型》/
+long 丨Number = -1234567890L; double fFloatResult; double fNumber = -123.1;
+iAbsoluteNumber=abs(iNumber); IResult= labs(INumber); fFloatResult= fabs(fNumber);
+广定义浮点型，为其賦值为-1234.CT/
+/*将iNumber的绝对值赋给iAbsoluteNumber变置*/ /*将INumber的绝对值赋给iResult变置*/

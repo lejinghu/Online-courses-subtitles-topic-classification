@@ -1,0 +1,5 @@
+﻿06		char filename[30],str[30];	/*定义两个字符型数组*/
+04	{		
+05		FILE *fp;	
+07		printf("请输入文件路径：\n");	
+08		scanf(”％sf’，filename);	/*输入文件名*/

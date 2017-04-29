@@ -1,0 +1,5 @@
+﻿03	float s;	/*定义变量S, s为局部变量*/
+01	float func(float a.float b)	
+02	{	
+04	s=a*b;	/*求a与b的乘积s*/
+05	return s;	r返回s*/

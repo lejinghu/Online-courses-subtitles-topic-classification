@@ -1,0 +1,5 @@
+﻿** 每种字符类型的名字。 V
+(sizeof( test func ) / sizeof { test func[ 0 ]
+
+char*label[] = { ncontrol”， ITwhitespacen r Migit'
+T’lower case,Tf ’’uppercase1’， "punctuation”， nnon-printablef,

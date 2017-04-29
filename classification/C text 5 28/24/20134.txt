@@ -1,0 +1,5 @@
+﻿04	intfact=1,n,i;	/定义变量fact、n和i/
+02	void main()
+03	{
+05	printf("求n的阶乘，请输入一个正整数n的值:\n");
+06	scanf("%d"，&n);	/ 输入 n 的值/

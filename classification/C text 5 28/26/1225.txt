@@ -1,0 +1,5 @@
+﻿至此为止，本书介绍了〇语言提供的各种数据类型，如：整型、实型、字符型、枚举、
+case mon：print f("Today is Monday");break; case tue：print f(rtToday is Tuesday");break; case wed：printf("Today is Wednesday");break; case thu:printf("Today is Thursday");break; case fri:printf("Today is Friday■)；break； case sat:printf("Today is Saturday");break; case sun:printf("Today is Sunday");break; default:printf("data error");
+7.9用户定义类型
+数组、结构、联合、指针等。除了这些数据类型之外，〇语言还提供了用户自定义类型，允
+许用户用1>1^(1^'定义新的数据类型名，以代替己有的数据类型名，经常用在以下场合：

@@ -1,0 +1,5 @@
+﻿第二，浮点变量不适合于涉及钱款的计算，因为浮点变量可能会取整。如果金额不 是特别大，可以用整数值存储美分。例如：
+quantity*unit_price*(1.0-discount));
+这大大简化了代码。现在我们只调用了一个printf〇来应用折扣，该折扣设置为0或 5%。用一个变量存储折扣值，还可以使代码更清晰。
+// Unit price in cents
+// Prompt message // Read the input

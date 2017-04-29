@@ -1,0 +1,5 @@
+﻿/定义变量n和result/
+12	if(n==0||n==1)
+13	return n;
+/输入n的值/
+/调用fibonacci函数/

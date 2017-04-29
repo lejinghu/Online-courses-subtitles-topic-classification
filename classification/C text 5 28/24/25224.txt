@@ -1,0 +1,5 @@
+﻿13	float aver=0.0;	/★定义变量aver ★/
+11	{	
+12	float *end;	/*定义结束指针变量end ★/
+14	end=p+n;	/★将p+n赋值给如廿★ /
+15	for(;p<end;p++)	/*通过循环求和暂存于aver ★/

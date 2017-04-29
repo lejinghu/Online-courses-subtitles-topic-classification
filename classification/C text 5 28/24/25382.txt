@@ -1,0 +1,5 @@
+﻿20	float r;	/★定义变量★/
+18	J float fun(float x, float y, float	(*p)(float,float))
+19	/★函数定义，函数的参数是函数指针P ★/	? {	
+21	r=(*p)(xfy);	/*利用函数指针p调用函数*/
+22 23	return r; }	/★返回r */

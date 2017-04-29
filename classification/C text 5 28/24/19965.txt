@@ -1,0 +1,5 @@
+﻿04	float x;	/ 定义变量 x/
+02	void main()
+03	{
+05	printfC’请输入 x 的值:\n”)；
+06	scanf("%f',&x);	/ 输入 x 的值 /

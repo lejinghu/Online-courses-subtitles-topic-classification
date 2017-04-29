@@ -1,0 +1,5 @@
+﻿Stephen G. Kochan撰写及合作撰写了六本经典的程序设计与Unix书籍，包括…&S/7e// Programmhg和Program/??//^//?他曾任AT&T贝尔实验室的软件顾问，从事Unix 和C程序设计的开发与授课工作。
+很棒的书。"
+	Vinit S. Carpenter, Learn C/C++ Today
+
+PEARSON

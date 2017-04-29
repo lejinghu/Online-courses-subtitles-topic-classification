@@ -1,0 +1,5 @@
+﻿stdbool.h头文件是C99中增加的，R包含上述声明。这些布尔类型和数值名与C++中的 ~'致。
+Idefine bool _Bool #de￡ln? false 0 #defin? tru? 1
+轉define	bool true false ar? defined 1
+尽管标准头文件中通常不允许定义unde￡in?宏，但C99允许编程人员定义#undefina， 必要时还可以重新定义bool、false与true宏。
+参考章节 Bool类型5丄5

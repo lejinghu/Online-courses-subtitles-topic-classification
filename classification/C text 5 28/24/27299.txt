@@ -1,0 +1,10 @@
+﻿(4)使用typedef说明一个结构体类型名，再用新类型名来定义变量g例如：	\
+struct student struct student std, pers[3 ] , * pstd;
+此处先说明了结构体类型struct student,再由一条单独的语句定义了变量std、数组pers和指针变 量pstd。使用这种定义方式应注意：不能只使用struct而不写结构体标识名student,因为struct 不像int、Char可以唯一的标识一种数据类型。作为构造类型，属于struct类型的结构体可以有任 意多种具体的“模式”，因此struct必须与结构体标识名共同来说明不同的结构体类型。此外，也 不能只写结构体标识名student而省掉struct。因为student不是类型标识符，由关键字struct和 student—起才能唯一地确定以上所说明的结构体类型。
+typedef struct
+| char ame[ 12 ];
+(4)使用typedef说明一个结构体类型名，再用新类型名来定义变量g例如：	\
+struct student struct student std, pers[3 ] , * pstd;
+此处先说明了结构体类型struct student,再由一条单独的语句定义了变量std、数组pers和指针变 量pstd。使用这种定义方式应注意：不能只使用struct而不写结构体标识名student,因为struct 不像int、Char可以唯一的标识一种数据类型。作为构造类型，属于struct类型的结构体可以有任 意多种具体的“模式”，因此struct必须与结构体标识名共同来说明不同的结构体类型。此外，也 不能只写结构体标识名student而省掉struct。因为student不是类型标识符，由关键字struct和 student—起才能唯一地确定以上所说明的结构体类型。
+typedef struct
+| char ame[ 12 ];

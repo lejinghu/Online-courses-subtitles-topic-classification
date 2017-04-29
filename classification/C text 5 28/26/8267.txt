@@ -1,0 +1,10 @@
+﻿2.8.5字符型常量
+dynu?i c_c? t	operator	thl?	virtual
+?xplielt			wch?r_t
+C语言中单字符常童的类型为int,而C++中的类型为char。多字符常最是实现定义的，在两种 语言中均为int类型。实际上，这样并没有什么差别，因为按照通常转换规則，C++字符型常量会升 级为int类型。但是，aizeof (? c。在€++中为Bizaof (char>，而在言中为(int>。
+2.9字符集、指令集和编码方式
+2.8.5字符型常量
+dynu?i c_c? t	operator	thl?	virtual
+?xplielt			wch?r_t
+C语言中单字符常童的类型为int,而C++中的类型为char。多字符常最是实现定义的，在两种 语言中均为int类型。实际上，这样并没有什么差别，因为按照通常转换规則，C++字符型常量会升 级为int类型。但是，aizeof (? c。在€++中为Bizaof (char>，而在言中为(int>。
+2.9字符集、指令集和编码方式

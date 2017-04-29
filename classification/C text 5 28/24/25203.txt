@@ -1,0 +1,5 @@
+﻿/定义变量i /
+}
+void maxminvalue(int	int n)
+定义指针变量p和end，end指向数组的结束位置/ /将第一个元素赋值给max和min /
+/通过指针p指示第2个元素/

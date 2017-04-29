@@ -1,0 +1,5 @@
+﻿char<3=W;	/*定义字符变量*/
+/*定义无符号整型变量*/
+/*定义实型变量*/
+printf("a=%d,a=%5d\n",a#a)? printf("b=%-5u,b=%u\n",b#b); printf (M \n1*);
+printf("c=%f,c=%8.4f,c=%g\n",c,c,c); printf("\nM)；

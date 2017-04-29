@@ -1,0 +1,5 @@
+﻿定义变量和数组a[10]		
+return flag
+prime函数盒图
+输入10个正整数存		
+	foi(i=l;i<=n;i-H-)	

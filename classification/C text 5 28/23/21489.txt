@@ -1,0 +1,5 @@
+﻿针对CPL的弱点，英国剑桥大学的Martin Richards在美国麻省理工学院访问工作时，对CPL 语言进行了简化。于 1967 年提出了简化的 CPL 语言 BCPL(Basic Combined Programming Language) 语言。BCPL简洁、紧凑，除了诸如word (字）、cell (单元）这样一些简单数据类型的描述之外， 没有其他数据类型。因此，BCPL属于无数据类型语言。BCPL于20世纪70年代初在牛津（Oxford) 的OS6操作系统，以及MIT和贝尔实验室的一些项目中得到了应用。
+FORTRAN语言成功后，人们又想设ii■一种通用语言（Commom Language),目标是实现程序 共享，使公众（一般人员）能够用该语言编程进行数值处理。而I960年产生的ALGOL 60就是这 种设想的产物。
+由于ALGOL 60缺乏对计算机硬件的操作能力，因此不宜用来编写系统程序。英国剑桥大学 (Cambridge University)于 1963 年基于 ALGOL 60，设计了 CPL (Combined Programming Language) 语言，目的是希望继承ALGOL 60的高级语言特征，但又能够对机器硬件进行操作。但CPL语言 过于复杂，语言规模过大，学习和使用CPL比较困难，因此CPL并没有完全实现。
+1969—1970年，美国贝尔实验室的Ken Thompson为了使DEC公司的PDP-7在每个字占18bit 且只有8KB内存空间的硬件环境下，实现NUIX操作系统，对BCPL进行了进一步的简化和改进， 设计出了 B语言，使其能够在8KB的内存空间中运行。同时，对BCPL语言成分的描述进行了改 进。例如，用V[i]表示内存中V标识的单元后面的第i个单元，而在BCPL中，V后面的第i个内 存单元用V!i表示。显然V[i]较V!i更接近数学上数组V中第i个元素的描述，并且B语言中开始 引入了一些新的操作。又如，H和--操作，并且有前缀++和--操作与后缀++和-_操作之分。在 数据类型方面，B语言和BCPL —样，仍然属于无数据类型语言。Dennis M. Ritchie称B语言为无 类型的C语言。
+1969—1973年，贝尔实验室的Dennis M. Ritchie为了在DEC公司的PDP-11上实现UNIX操 作系统，在B语言的基础上设计并实现了 C语言。Dennis M. Ritchie首先引入了类型系统，接着定 义了相关语义，并为这种新语言编写了编译器，并将改进后的语言命名为C语言，而C取自BCPL 的第二个字母，用以表示C源于B，而B源于BCPL。此后，Mike Lesk和John Reiser进一步完善 了 C编译预处理中的宏定义和条件编译。

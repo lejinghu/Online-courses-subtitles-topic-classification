@@ -1,0 +1,5 @@
+﻿char filename[30],str[30】；r定义两个字符型数组*/ printffplease input filenameAn"); scanf(”％s”,filename);/* 输入文件名 */
+{
+FILE #fp;
+lf((fp=fopen(f丨lename,?r))==NULL)广判断文件是否打开失败*/
+{

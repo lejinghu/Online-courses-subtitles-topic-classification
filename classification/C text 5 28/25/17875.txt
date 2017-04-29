@@ -1,0 +1,5 @@
+﻿/定义浮点型，为其赋值为-123.1/ iNumber	iAbsoluteNumbea-
+16 17
+double fNumber = -123.1; iAbsoluteNumber^ab^iNuniber); lResult= labs(lNumber); fFloatResult= fabs(fNumber);
+/将INumber的绝对值赋给IResult变量/
+/将fNumber的绝对值赋给AFloatResult变量/

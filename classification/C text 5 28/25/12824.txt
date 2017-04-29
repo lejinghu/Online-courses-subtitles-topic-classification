@@ -1,0 +1,5 @@
+﻿%f	以十进制小数形式输出一个浮点型数据。例如： float f= —12.3; printf (,f % f',f);	//输出一12.300000	浮点型
+%c	输出一个字符型数据。例如： char ch='A'; printf ("%c", ch); //输出 A	字符型
+%s	输出一个字符串。例如： printf ("my name is %s", "wangjinghua"); //输出 my name is wangjinghua	字符串
+%E	以指数形式输出一个浮点型数据。例如： float f= 1234.8998; printf ("% e", f); 〃输出 1.234900e+003 (VC 下) printf ("%E", f); //输出 1.234900E+003 (VC 下）	浮点型
+%G	按照中输出宽度比较短的一种格式输出	浮点型

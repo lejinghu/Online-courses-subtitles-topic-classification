@@ -1,0 +1,5 @@
+﻿int x =0, y =0; ^	全局变量定义
+printf ("2: x =%d\ty =%d\n", x, y);
+}
+void gy ()
+{

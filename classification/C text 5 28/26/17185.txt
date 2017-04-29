@@ -1,0 +1,5 @@
+﻿字符型	[signed] int	1	-128?127
+长整型	'long [int]	4	-2147483648?2147483647
+无符号长整型	unsigned long [int]	4	0?4294967295
+无符号字符型	unsigned char	1	0 ?255
+单精度型	float	4	3.4X 10-38 ?3.4X 1038

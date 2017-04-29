@@ -1,0 +1,5 @@
+﻿/定义变量和数值a /
+/★函数声明/
+/★定义全局变量max和min ★/
+n=sizeof(a)/sizeof(a[0]); maxminvalue(a, n);
+printf (,Tmin=%d/max=%ci\nH,min,max);

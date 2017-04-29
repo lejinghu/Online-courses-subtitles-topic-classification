@@ -1,0 +1,5 @@
+﻿{ int iSignal;	r定义变量表示倌号灯的状态
+多数路口的信号灯还有一个黄灯，是用来提示车辆准备行驶或者停车的。6.2.1节使用if语句模拟 信号灯，在本实例中使用if...else语句进一步完善这个程序，使得信号灯具有黄灯相应的功能。
+#include<stdio.h> int main()
+printf("the Red Light is 0,\nthe Green Light is 1 ,\nthe Yellow Light is other number\n");	/*输出提示信息*/
+scanf("%d",&iSignal);

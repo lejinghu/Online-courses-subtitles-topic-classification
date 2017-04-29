@@ -1,0 +1,5 @@
+﻿char x;	/定义字符变量x /
+printf ("%c" ,x) ;	/ 输出 x 的值 /
+字符的另一种输入与输出是用库函数getchar和putchar，下面给出一个示例：
+x=getchar();	/★从键盘输入一个字符给变量x /
+putchar (x) ;	/ 输出 x 的值 /

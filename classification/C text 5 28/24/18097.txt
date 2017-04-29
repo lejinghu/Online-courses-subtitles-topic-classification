@@ -1,0 +1,5 @@
+﻿10 11 12	} student;	/*定义变量*/
+08	char cSex[3];	/*性别*/
+09	int iGrade;	/*年级*/
+	int main()	
+13	{	

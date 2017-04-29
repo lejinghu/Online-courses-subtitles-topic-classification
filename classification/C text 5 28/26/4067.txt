@@ -1,0 +1,5 @@
+﻿它表示lineptr是一个具有MAXLINES个元素的一维数组，其中数组的每个元素是一个指 向字符类型对象的指针。也就是说，lineptr[i]是一个字符指针，而lineptr[i]是该指 针指向的第i个文本行的首字符。
+有关函数getline的详细信息参见1.9节。
+在该例子中，指针数组lineptr的声明是新出现的重要概念: char lineptr[MAXLINES];
+由于1ineptr本身是一个数组名，因此，可按照前面例子中相同的方法将其作为指针使 用，这样，writelines函数可以改写为：
+/ writelines:	write output lines /

@@ -1,0 +1,5 @@
+﻿09		float s;		/★定义变量s，s	为局部变量j	
+07	float func2(float		r)	/*求圆的面积*/		
+08	{					
+10		s=3?14*r*r;		/*求圆的面积s	*/	
+11		return s;		/★返回s */		

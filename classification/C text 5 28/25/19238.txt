@@ -1,0 +1,5 @@
+﻿上述语句用标记符名称u_example声明一个联合，它由浮点值decval、整数指针pnum 和双精度浮点变量my_value共享。该语句定义了一个联合的实例，即变量U1。也可以 用下面的语句声明这个联合的其他实例：
+float decval; int *pnum; double my_value;
+} ul;
+union U_example u2, u3;
+联合成员的访问方式和结构成员完全相同。例如，要指定Ul和U2成员的值，可以 编写：

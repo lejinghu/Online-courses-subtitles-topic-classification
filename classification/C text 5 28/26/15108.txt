@@ -1,0 +1,5 @@
+﻿函数putcharO把c/i的低字节写到标准输出流stdout中。功能上,putchar()等价于putc(ch，stdout)。由于 字符型变元都在调用函数时变换成整型,程序中可以用字符型变元做putcharO的变元。
+13.26	putchar
+#	include < stdio. h > int putchar(int ch);
+成功时，putcharO返回写入的宇符；出错时返回EOF。
+13.26.1	例子

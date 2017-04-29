@@ -1,0 +1,5 @@
+﻿inti;	/定义变量/
+12 }
+程序的运行结果如下所示。
+char strn={MGood Morning","C Program Language","Data Stmcture","Microsoft Corporation"}；
+char p; for(i=0;i<4;i++)

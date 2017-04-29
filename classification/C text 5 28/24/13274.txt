@@ -1,0 +1,5 @@
+﻿int a, b;	//外部变量定义	extern int a, b; //外部变量说明
+当一个源程序由若干个源文件组成时，在一个源文件中定义的外部变量在其他的源文 件中也有效。例如，有一个源程序由源文件prgl.cpp和prg2.cpp组成：
+prgl.cpp	prg2.cpp
+void main ( )	func (int x, int y)
+在prgl.cpp和prg2.cpp两个文件中都要使用a、b两个变量。在prgl.cpp文件中把a、 b都定义为外部变量。在prg2.cpp文件中用extern把两个变量说明为外部变量，表示这些 变量已在其他文件中定义，编译系统不再为它们分配内存空间。

@@ -1,0 +1,5 @@
+﻿下面给出unsigned long int类型变量定义的范例：
+(6)无符号长整型（unsigned long int 或 unsigned long)。
+数据类型符为unsigned long int，也可写成unsigned long，占用4个字节（32位）的内 存单元。最高位不是符号位，而是数据位。unsigned long类型与long类型的区别可参考 unsigned int与int类型区别。
+unsigned long int x=4389828； unsigned long y=0XA5CD99AB；
+在标准c语言程序中，变量的定义必须放在函数的声明部分，下面的例子说明了实际 程序中如何来定义整型变量（行号不属于程序）。读者只需看懂有阴影的部分即可。

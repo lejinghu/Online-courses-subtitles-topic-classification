@@ -1,0 +1,5 @@
+﻿int iSignal;	/定义变量表示信号灯的状态/
+#include<stdio.h> int main()
+{
+printf(”0代表红灯，\nl代表绿灯，\n其他数字代表黄灯输出提示信息/
+图7.6使用if"else语句判 断5和7的整倍数

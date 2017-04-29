@@ -1,0 +1,5 @@
+﻿一个在所有函数之外定义的变量具有文件作用域。具有文件作用域的变量从其定义 处到包含该变量定义的文件结尾处都是可见的。
+void func (int m, int n, arr[m][n]);
+上面的函数原型中包含了一个变长数组参数，该变长数组定义长度的方括号中使用 了两个变量m和n,这两个变量必须是在函数原型中已经声明过的变量。
+#include <stdio.h> int books= 0; void study (void); main ()
+void study (void)

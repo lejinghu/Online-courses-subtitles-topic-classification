@@ -1,0 +1,5 @@
+﻿04	int i;	/★定义变量i /
+02	void main()
+03	{
+05	char strl U="Can I help you?”，str2 [30] ; /★定义字符数组 strl 和 str2 ★/
+06	char pl,p2;	/定义指针变量 pi 和 p2 /

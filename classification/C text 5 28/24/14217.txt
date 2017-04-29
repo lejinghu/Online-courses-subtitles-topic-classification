@@ -1,0 +1,5 @@
+﻿(1)	在程序代码中，定义变量表示欠款的金额，fAmount表示应该还款的金额，iOntime 的值表示有没有按时还款，cChar用字符表示有没有按时还款。
+printffEnter dues amountiVn"); scanf("%r,&fDues); printffOn Time? (y/n)\nM); getchar(); cChar=getchar(); iOntime=(cChar==y)?1:0; fAmount=iOntime?fDues:(fDues*1.1); printffthe Amount is:%.2f\n",fAmount); return 0;
+}
+(2)	通过运行程序时的提示信息，用户输入数据。假设用户输入欠款的金额为1⑻，然后提示有 没有按时还款。用户输入y表示按时，n表示没有按时还款。
+(3)	假设用户输入n,表示没有按时还款。接下来使用条件运算符判断表达式cChar=y是否成

@@ -1,0 +1,5 @@
+﻿定义学生成绩单结构类型sC〇re_tab,其中，num是学号，整型；name是学生姓名字符数组； SC〇re[4]是有4个元素的浮点型学生成绩数组,score[〇]存放数学成绩、score[l]存放物理成绩、score[2] 存放英语成绩、sc〇re[3]存放C语言程序设计成绩。其结构如下：
+#include ’’stdlib.h"
+#include "string.h"
+typedef struct score_tab{ int num;
+char name[20]; float score[4]; } score—tab;

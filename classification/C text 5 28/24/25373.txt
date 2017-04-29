@@ -1,0 +1,5 @@
+﻿05	float a,b,aver;	/★定义变量★/
+03	void main()	
+04	{	
+06	float (*p)(float,float);	
+	/*定义函数指针p, p指向的函数包含两个float型参数★/	

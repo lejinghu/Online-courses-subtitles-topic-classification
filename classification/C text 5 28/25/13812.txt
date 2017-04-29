@@ -1,0 +1,5 @@
+﻿double	定义双精度浮点型变量
+default	定义switch语句中的default子句
+do	定义do-while语句
+else	定义if-else语句中的else子句
+enum	定义枚举类型

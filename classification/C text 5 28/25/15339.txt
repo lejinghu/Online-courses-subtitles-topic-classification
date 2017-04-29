@@ -1,0 +1,5 @@
+﻿4.	修改程序addlO.c，让它累加H)个浮点型数据，
+3以格特鲁斯坦因的rose is a rose is a rose”例子作为模板，编写一个 for循环，使之显示麦克白的悼词中的如下部分：
+Tomorrow and tomorrow and tomorrow.
+5.	编写程序，使用像下面运行示例的格式依次输出1?10的平方值。要求设计时要使上下 限值便于修改9
+

@@ -1,0 +1,5 @@
+﻿/★定义变量a、b、c和max ★/
+8	printf (,,max=%d\nH,max);
+9	}
+/★输入变量a、b、c的值/
+/★求a、b、c的最大的一个，赋值给max / /输出 max /

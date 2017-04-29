@@ -1,0 +1,5 @@
+﻿05	char ch,infile[20]foutfile[20];	广定义变量ch和数组infile、outfile*/
+02 void main()		
+03	{ 04	FILE *fp1,*fp2;	广定义文件指针fp1和fp2V
+06	printf("请输入infile文件名:\n");	
+07	gets(infile);	/*输入infile的文件名*/

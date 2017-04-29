@@ -1,0 +1,5 @@
+﻿该表最后一列显示，根据第一、二列布尔变量p和q的值计算出的布尔表达式p&&q的值。因此， 真值表的第一行表明当p的值为FALSE, q的值为FALSE时，表达式p&&q的值为FALSE。
+TRUE	FALSE	FALSE
+TRUE	TRUE	TRUE
+M操作的真值表为：
+p	q

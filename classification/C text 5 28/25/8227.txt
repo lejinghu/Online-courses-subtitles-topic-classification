@@ -1,0 +1,5 @@
+﻿浮点型常量可以写成带小数点的、带符号指数的或同时包含两者的十进制数5标准d脅言可以用后 缀字母（浮点型后缀）指定float与long doubled的常量。如果不用后缀，则常量类型为double。
+①这个类型无法准确表示这个值D
+参考章节整型转换规则623;扩展整型5.14;整型5.1; UIIMAXJC 215; nnM_C 213; iijnits.h 5.1-1;溢出72; stdint山第21章；一元负号运算符753;无符号整数5.12 2.7.2浮点型常董
+jloating-ccnstant:
+decimal-fiooting-constant

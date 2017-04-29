@@ -1,0 +1,5 @@
+﻿可以把从文件中读取的字符放在一个本地缓冲区中，所以在main〇的pfile定义后面 添加如下变量定义：
+#define DISPLAY 80	// Length of display line
+#define PAGE一LENGTH 20	// Lines per page
+unsigned char buffer[DISPLAY/4 - 1];	II File input buffer
+size_t count = 0;	// Count of characters in buffer

@@ -1,0 +1,5 @@
+﻿?	Kemigh^n, Brian W? and Ritchie, Dennis M.f The C Programming Z^n^i?i^e(Prenticc-Hall( 1978);
+?	Bentley, Jon Louis, Writing Efficient Pr^ram^Prentice-HalU 1982);
+?	Bentley, Jon Louis, ^Programming Pearls^ (monthly column appearing in Communications of the ACM beginning August 1983);
+?	Knuth, Donald E., The Art of Computer Programming Volumes 1-3(Addison-Wesley, 1968, 1969, 1973, 1981);
+?	Sedge wick, Robert,	Addison-Wesley, 1983).

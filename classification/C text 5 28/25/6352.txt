@@ -1,0 +1,5 @@
+﻿//使用浮点变量储存计算结果，因为结果不一定是整数。 avg = ((float) totalPoints / 10);
+totalPoints += gameScores[i];
+} .
+printf("\n\nThe Player's scoring average is %.If.\nu, avg);
+return(0);

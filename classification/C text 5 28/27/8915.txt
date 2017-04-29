@@ -1,0 +1,5 @@
+﻿control expressions (控制表达式），260 control functions (控制函数），4~45? contro] wide character (控制宽宇符337 conversion of Boolean type (布尔类型转换），189 convertion specifier (转换说明符），379 conversion state (转换声明），16 conversions (转换），188-200 argument (参数），128,214 array (数组）.193
+constant expressions (常量表达式），250 in initializers (在初始化过程中），106 in preprocessor commands (在预处理雅命令中 \ 251 constants (常量），24-38 character (字符），30, 39 cotnplejt (复数)，29 enumeration (枚举），146 floating-point (浮点数），29 integer (整数），25 lexical (词法24 value of (值），209 comimxation (续行），
+of preprocessor commands (预处理器命令），45 of source lines (源行)，14 of string constants (字符串常量），34 coatinue statement (continue	277
+array to pointer (敢组到指针），106,140,193
+itssigninent (赋值）f 195

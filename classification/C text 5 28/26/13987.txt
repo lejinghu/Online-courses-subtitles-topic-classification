@@ -1,0 +1,5 @@
+﻿char cCharl;	字符型变量cCharl*/
+在本实例中，通过为定义的字符型变量和整型变量进行不同的賦值，通过输出的结果观察有关 整型变量和字符型变量之间的转化。
+#include<stdio.h> int mafn()
+char cChar2;	广字符型变量cChar2*/
+int ilntl;	T整型变量ilntl*/

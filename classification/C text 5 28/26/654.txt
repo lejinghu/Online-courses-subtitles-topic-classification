@@ -1,0 +1,5 @@
+﻿/*定义字符型变量*/
+chara; unsigned b; float c; int d;
+printf(_a=?"}; scanf("%c",&a); printf(*b=?"); scanf("%u",&b); printf(■〇=?"); scanf("%f",&c)； printf("d=?"); scanf("%d"# &d)； printf("\n"); printf("a=%c\n",a) printfi"b=%u\n",b) printf("c=%f\n",c) printf("d=%d\n",d)
+/*定义无符号整型变量*/
+/*定义实型变量*/

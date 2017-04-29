@@ -1,0 +1,5 @@
+﻿(1)	首先在程序中声明结构类型，同时定义变量student，为变董进行初始化的操作。
+printf("—the student’s information—\n"); printf("Name: %s\n",(*pStruct).cName); printf("Numb?r. %d\n",(*pStruct).iNumber); printf("Sex: %c\n",(*pStruct).cSex); printf("Grade: %d\n",(*pStruct).iGrade); return 0;
+}
+(2)	定义结构体指针变量pStrnct，然后执行pStruct=&student;操作使得指针指向student变景。
+(3)	输出消息提示，然后在printf中使用指向结构变量的指针引用成员变量，将学生的信息进行

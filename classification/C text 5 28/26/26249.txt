@@ -1,0 +1,5 @@
+﻿前者（整数类数据类型）是以下数据类型的统称。 枚举型（enumeration type)※在下一章学习 字符型（charactertype):表示字符 整型（integertype):表示整数
+图7-1算术类型
+
+字符型、整型和浮点型只需使用int或double等关键字就能表示其数据类型，因此将它 们统称为基本数据类型（basic type)。
+基数

@@ -1,0 +1,10 @@
+﻿此函数返回大于或等于x的最小整数的浮点型表示，
+此函数返回小于或等干x的最大整数的浮点表示^
+*	double ceil(double x);
+*	double fmod(double xt double y);
+此函数返回x/y的余数的浮点数。
+此函数返回大于或等于x的最小整数的浮点型表示，
+此函数返回小于或等干x的最大整数的浮点表示^
+*	double ceil(double x);
+*	double fmod(double xt double y);
+此函数返回x/y的余数的浮点数。

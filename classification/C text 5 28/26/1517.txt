@@ -1,0 +1,5 @@
+﻿对字符型变量赋值有两种方式。一种是使用字符常量，比如：
+[signed ] char chi;
+[unsigned] char ch2;
+char cl = 'n*; unsigned c2 = '\n1;
+另一种是使用整型数值赋值，整型数值会自动转化为相应的ASCII码赋值给字符变量。比如：

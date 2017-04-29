@@ -1,0 +1,5 @@
+﻿1 08	X float afb,r;	/*定义变量★/
+05	float fun(float x, float y, float /★函数声明，参数为函数指针★/	(*p)(float,float));
+06	void main (> /	
+09	printf("请输入a和b的值：\n">;	
+10	scanf (,f%f, %f&a/ &b);	/*输入两个数a和b */

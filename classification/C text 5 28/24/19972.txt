@@ -1,0 +1,5 @@
+﻿04	int a,b，c，max;	/定义变量a、b、c和max/
+02	void main()
+03	{
+05	printf("输入a、b、c的值：\n");
+06	scanf(M%d，％d，％dH,&a，&b,&c);	/输入变量a、b、c的值/

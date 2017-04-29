@@ -1,0 +1,5 @@
+﻿在上面的程序中，数组score表示10个学生每个人的成绩。变量sum表示10个学 生成绩的总和，而i是循环变量，用作数组的下标，浮点型变量average表示10人的成
+}
+average=(float)sum/10; printf( "Average=%f\n" ,average); }
+值。然后进行累加，
+绩平均值。在for循环中，先输入每个	赋

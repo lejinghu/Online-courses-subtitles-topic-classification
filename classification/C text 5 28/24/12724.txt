@@ -1,0 +1,5 @@
+﻿下面给出long int类型变量定义的范例：
+(5)	有符号长整型（long int或long)。
+数据类型符为long int,也可写成long,占用4个字节（32位）的内存单元，最高位 为符号位。在VC中long与int类型基本相同，但在TC或BC中，long类型与int类型除 所占字节不同外，其他数据处理方法是一样的。
+long int x=0xFF00FFCD； long y=215678；
+(6)无符号长整型（unsigned long int 或 unsigned long)。

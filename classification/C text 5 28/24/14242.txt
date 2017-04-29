@@ -1,0 +1,5 @@
+﻿r定义变量，表示计算总和v r表示每一个数字v
+#includ?<stdio.h> int main()
+int iSum=0; int iNumber=1;
+
+while(iNumb?r<= 100)

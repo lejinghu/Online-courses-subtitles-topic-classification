@@ -1,0 +1,5 @@
+﻿05	char ch;	/定义一个字符变量V
+03	void main()
+04	{
+06	printff请输入一个字符加")；
+07	scanf("%c",&ch);	/ 输入一个字符 /

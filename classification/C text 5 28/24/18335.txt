@@ -1,0 +1,5 @@
+﻿03	int n;	/*定义变量，存储用户输入的编号V
+01	int main()	/*显示主菜单*/
+02	{ _	
+04	mysql_init(&mysql);	/*初始化MySQL结构*/
+05	showmenu();	/*显示菜单*/

@@ -1,0 +1,5 @@
+﻿/定义变量/
+MAXSIZE 的 有效范围
+图10.1宏名的作用范围
+/将STRING替换为 Please input a radiusAn/
+/输入半径r/

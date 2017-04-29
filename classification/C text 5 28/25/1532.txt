@@ -1,0 +1,5 @@
+﻿图4-11 Visual C++2005环境下浮点型的字节长度	图4-12 GCC 3.2.2环境下浮点型的字节长度
+?r(float) ? 4
+klzio((doubU> ? 1 kizeo((lon<| double) ? I
+【代码解析】从图4-11可以知道，Visual C科2005环境下，float型字长为4字节，即32 位；double型和long double型字长为8字节，即64位。
+从图4-12可以知道，GCC 3.2.2环境下，float型为4字节，即32位；double型为8 字节，即64位；long double型为12字节，即96位。由于C99标准中定义long double 型为12位，因此，为了与标准一致，本节的程序都会在GCC 3.2.2环境下运行。如果 读者使用的是Visual C++ 2005环境，请忽略对long double型的分析。

@@ -1,0 +1,5 @@
+﻿这种结构需要8字节的内存空间，但在实际上，在每个变量中，我们只存储0或1。在这种情况下，C 语言提供了一中更好的利用内存空间的方式。如果您在结构内使用这样的变量，您可以定义变量的宽度 来告诉编译器，您将只使用这些字节。例如，上面的结构可以重写成：
+{
+unsigned int widthValidated; unsigned int heightValidated; } status;
+struct
+{

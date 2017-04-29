@@ -1,0 +1,5 @@
+﻿4	int a;	/★定义变量a，a为局部变量★/
+2	void main()
+3	{
+5	scanf("%d",&a);
+6	printf("%d\n",a>;

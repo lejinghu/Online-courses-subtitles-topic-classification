@@ -1,0 +1,5 @@
+﻿单字符类型char	26
+浮点数值类型float	25
+扩展精度类型double	26
+布尔数据类型_B〇〇l	27
+类型说明符：long、long long、, short、unsigned 和 signed... 28

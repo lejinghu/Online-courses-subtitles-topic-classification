@@ -1,0 +1,5 @@
+﻿int n,s;	/定义变量/
+02	void main(>
+03	{
+s=0;
+printf ("请输入一个数：\n" > ; scanf ("%d", &n) ;	/★输入 n 的值/

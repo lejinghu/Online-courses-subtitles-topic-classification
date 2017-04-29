@@ -1,0 +1,5 @@
+﻿字符型	char signed char unsigned char			
+用最简短的表示方法，即各行最右边的写法。
+■表7-1字符型、整型的名称和简称
+	signed short int	signed short	short int	short
+整型	unsigned short int signed int unsigned int	unsigned short signed unsigned	int	

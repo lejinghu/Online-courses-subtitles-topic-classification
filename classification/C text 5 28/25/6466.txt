@@ -1,0 +1,5 @@
+﻿float radius, height, vol;	/* 定义浮点型变量 */
+# include <stdio.h> main()
+{
+float volume(float,float); /* 声明 volume 函数 */ printf("Please input the radius and height:\n");
+scanf(”°/〇f °/〇f'，&radius，&height);	/*调用库函数，从键盘输入 radius,height 的值*/

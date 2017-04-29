@@ -1,0 +1,5 @@
+﻿03		float s;		/*定义变量s，s	为局部变量	
+01	float fund (float		a,	float b)	/*求 a	与b的差的函数*/	
+02	{					
+04		s=a-b;		/*求a与b的差	s */	
+05		return s;		/*返回s */		

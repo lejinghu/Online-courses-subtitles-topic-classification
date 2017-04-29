@@ -1,0 +1,5 @@
+﻿Bell Laboratories (贝尔实验室），3
+bemp facility ( bemp函数 >,360
+bcopy function (bcopf 函数），361
+big-endian computers (大端法计算机），183
+binary expressions (二进制表达式），227

@@ -1,0 +1,5 @@
+﻿04	int year,flag;	/*定义变量，year表示年份，flag表示闰年的标志V
+01	#include<stdio.h>
+02	void main() 03	{		
+05	printff请输入1个年份:\n");	
+06	scanf("%d",&year);	/*输入年份*/

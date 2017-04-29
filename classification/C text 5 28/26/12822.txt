@@ -1,0 +1,5 @@
+﻿%c	输出一个字符型数据。例如： char ch='A'; printf ("%c", ch); //输出 A	字符型
+%0 (字母0)	以八进制形式输出一个无符号整型数据。例如： int a= 164; printf ("% o", a);	//输出 244	无符号整型
+%u	以十进制形式输出一个无符号整型数据。例如： int a= —1; printf ("% u", a);	//BC 下输出 65535, VC 下 4294967295	无符号整型.
+%s	输出一个字符串。例如： printf ("my name is %s", "wangjinghua"); //输出 my name is wangjinghua	字符串
+%f	以十进制小数形式输出一个浮点型数据。例如： float f= —12.3; printf (,f % f',f);	//输出一12.300000	浮点型

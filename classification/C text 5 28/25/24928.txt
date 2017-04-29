@@ -1,0 +1,5 @@
+﻿10	float s;	/*定义一个浮点型变量s */
+08	void mult(float xf float y)	/*求两个数的乘积的函数定义*/
+09	{	
+11	s=x*y;	/*求两个数的乘积S */
+12	printf(n%f*%f=%f\nn,x,yf s);	/*输出X与y的乘积S */

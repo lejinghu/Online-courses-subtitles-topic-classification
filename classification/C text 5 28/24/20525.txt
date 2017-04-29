@@ -1,0 +1,5 @@
+﻿05	float s=0;	/*定义变量*/
+03 float sum(float x,float y)		r函数的定义*/
+04 {		
+06	s=x+y;	/*求x与y的和*/
+07	return s;	产返回S*/

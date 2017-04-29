@@ -1,0 +1,5 @@
+﻿12	float s;	/*定义变量s */
+10	{	
+11	extern float a,b;	/*声明外部变量★/
+13	s=sum(a,b);	/*调用函数sum */
+14	printf("s=%f\n",s〉；	/*输出s的值V

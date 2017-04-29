@@ -1,0 +1,5 @@
+﻿只有age的值在13~19之间(包含13和19),才执行printfO语句。当然，&&运算符 的操作数也可以是bool变量。前面的语句可以替换为：
+if(age > 12 && age < 20)
+printf("You are officially a teenager.");
+bool testl = age > 12; bool test2 = age < 20; if(testl && test2)
+printf ("You are officially a teenager.’’〉；

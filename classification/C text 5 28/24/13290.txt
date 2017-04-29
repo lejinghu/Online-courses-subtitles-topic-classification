@@ -1,0 +1,5 @@
+﻿int a, b; //外部（全局）变量定义	extern int a, b; //正确，a、是全局变量
+例如，有一个源程序由源文件prgl.cpp和prg2.cpp组成：
+prql.epp	prq2.epp
+static char eh; //定义静态全局变量	extern char eh; //错误，eh是静态全局变量
+void main ( )	func (int x, int y)

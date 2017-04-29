@@ -1,0 +1,5 @@
+﻿_Bool	布尔类型：大小足以存储数值0或1
+unsigned char	与char相同，只是确保不会因为整型提升而发生符号扩展
+signed char	与char相同，只是确保在进行整型提升时会发生符号扩展
+float_Complex	复数
+double_Complex	扩展精度复数

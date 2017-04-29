@@ -1,0 +1,5 @@
+﻿} pl,p2, pe[10], pp; /同时定义变量和数组V
+{
+char name[10]; char sex[3]； char tel[12]；
+(3)	没有类型名，直接定义结构体变量。例如：
+struct /没有给出类型名V {

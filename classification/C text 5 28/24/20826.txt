@@ -1,0 +1,5 @@
+﻿20	float r;	/*定义变量*/
+16 17 }	printf("a 和 b 的平均值为:°/〇f\n"，r)	;	/*输出平均值「V
+18	float fun(float x.float y.float (*p)(float,float))	/*函数定义，函数的参数是函数指针p */ 19	{		
+21	r=(*p)(x,y);	广利用函数指针p调用函数"
+22 23 }	return r;	/*返回「*/

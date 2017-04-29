@@ -1,0 +1,5 @@
+﻿可以使用枚举类型weekday来定义变量，例如：
+enum weekday{monday,tuesday,Wednesday,thursday? friday, Saturday, Sunday};
+其中monday、tuseday和Wednesday等值称为枚举元素。
+enum weekday weekl, week2;
+这样定义后，枚举变量weekl和week2的取值就只能在列出的7个枚举元素中进行 选取。例如：

@@ -1,0 +1,5 @@
+﻿1.建立并运行由Kemighan和Ritchie编写的著名的“hello, world”程序：
+练习		
+2.1节
+#include <stdio.h>
+main {)

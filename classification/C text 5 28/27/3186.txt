@@ -1,0 +1,5 @@
+﻿/* bool s_num;使用另外一个语句要增加的布尔变量*/ int o_count, d_count ; // 奇数禹数的计数 int o_sum, d_sum; //奇数和偶数的总值 float o_average,d_average;
+{
+int num = 0;
+o_count = d_count = o_sum = d_sum = o_average = d_average = 0;
+printf ("Please input number (0 to quit) : \n"); while ((scanf("%d",&num) == 1) && (num != 0))

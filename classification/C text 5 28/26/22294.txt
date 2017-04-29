@@ -1,0 +1,5 @@
+﻿对于上面的代码，可以写出下面的main函数。其中stack s;声明了一个stack类型的结构变量s， s中包括s.mystack和s.SP，s.mystack是有1000个元素的字符型数组，它被用作堆栈；而s.SP则是 “栈指针”.。程序先依次输出str数组中的各个数据，同时将其依次压入堆栈。然后通过while循环 依次将压入数据出栈。
+return ((boolean)(stk->length==FULL));
+}
+int main(void)
+{

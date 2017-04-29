@@ -1,0 +1,10 @@
+﻿/函数定义，参数为数组名V /定义变量i/
+maxminvalue(p,n);	/函数调用，实际参数为指针变量/
+printf("min=%d，max=%d\n"，min，max); /输出数组a中的最小者和最大者★/
+/将b[0]赋值给max和min/
+/依次将数组b中的元素与max、min比较/ / 如果 b[i]<min/
+/函数定义，参数为数组名V /定义变量i/
+maxminvalue(p,n);	/函数调用，实际参数为指针变量/
+printf("min=%d，max=%d\n"，min，max); /输出数组a中的最小者和最大者★/
+/将b[0]赋值给max和min/
+/依次将数组b中的元素与max、min比较/ / 如果 b[i]<min/

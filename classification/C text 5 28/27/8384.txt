@@ -1,0 +1,10 @@
+﻿可以把整数类型分为4类：带符号类型、无符号类型、布尔类型和字符型。每一类有特定类 型说明符集用以声明这个类型的对象：
+枚举类型也是墊型或整数式类型，将在5,5节介绍。
+标准C语言要求实现使用整数的二进制编码，因为许多低级C语言运算只有用二进制表示方 式才能在计算机上以可移植的方式描述。
+integiT-type-specifier:
+signed- type- specifier unsign ed-type -specifier character-type-specifier
+可以把整数类型分为4类：带符号类型、无符号类型、布尔类型和字符型。每一类有特定类 型说明符集用以声明这个类型的对象：
+枚举类型也是墊型或整数式类型，将在5,5节介绍。
+标准C语言要求实现使用整数的二进制编码，因为许多低级C语言运算只有用二进制表示方 式才能在计算机上以可移植的方式描述。
+integiT-type-specifier:
+signed- type- specifier unsign ed-type -specifier character-type-specifier

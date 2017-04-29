@@ -1,0 +1,5 @@
+﻿04	int iSignal;	/*定义变量表示信号灯的状态*/
+02	int main()	
+03	{	
+05	printf(”0代表红灯，1代表绿灯\|1");	/*输出提示信息*/
+06	scanf("%d’’，&iSignal);	/*输入iSignal变量*/

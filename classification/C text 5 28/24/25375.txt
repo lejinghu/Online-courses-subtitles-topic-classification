@@ -1,0 +1,10 @@
+﻿13	float average(float x, float y) 14	{ 15	float z; 16	z=(x+y)/2; 17	return z; 18	}	/★函数定义*/ /★定义变量★/ /*求x与y的平均值*/ /*返回z ★/
+12	}	
+#-
+程序运行结果如下：	
+请输入a和b的值：	
+13	float average(float x, float y) 14	{ 15	float z; 16	z=(x+y)/2; 17	return z; 18	}	/★函数定义*/ /★定义变量★/ /*求x与y的平均值*/ /*返回z ★/
+12	}	
+#-
+程序运行结果如下：	
+请输入a和b的值：	

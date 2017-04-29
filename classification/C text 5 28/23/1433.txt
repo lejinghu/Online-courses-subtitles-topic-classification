@@ -1,0 +1,5 @@
+﻿1.1.1	C语言的诞生
+1.1	C语言的历史沿革
+C语言己经经历了几十年的发展。在学习C语言之前，应该要先了解C语言是如何诞生 的，它的历史是怎么样的。本节将介绍C语言的诞生、标准化过程及其重要特点，最后还将展 示一个标准的“Hello, world!”程序。
+C语言是由著名的计算机科学家Dennis Ritchie创造的，其历史可以追溯到ALGOL 60。 ALGOL 60,也称为A语言，是纯粹的面向描述计算过程的语言。虽然A语言并没有被广泛使 用，但它引入的分程序结构、递归、动态、局部性概念等思想，对后来的程序设计语言影响深 远。1963年，英国剑桥大学在A语言的基础上设计了 CPL (Combined Programming Language) 语言。CPL语言比ALGOL 60更接近硬件，但由于过于复杂而难以实现。1967年，剑桥大学 的 Martin Richards 简化了 CPL,设计了 BCPL (Basic Combined Programming Language)语言。
+C语言的直接前身B语言就是从BCPL发展而来的。1969年，Dennis Ritchie和另一名计 算机科学家Ken Thompson在贝尔实验室从事DEC PDP-7计算机的研究。Ken Thompson为DEC PDP-7计算机设计了一个操作系统软件，也就是最早的UNIX操作系统。当时，在DEC PDP-7 上写程序很困难，只能用很底层、很高深的汇编语言。汇编语言依赖于计算机硬件，编写的程 序不具可读性和可移植性，而且难以调试。

@@ -1,0 +1,5 @@
+﻿int year, flag;	/定义变量，year表示年份，flag是闰年的标志/
+#include <stdio.h> void main()
+{
+凰我学C语言 …卜
+printf (??请输入1个年份：\：〇">;

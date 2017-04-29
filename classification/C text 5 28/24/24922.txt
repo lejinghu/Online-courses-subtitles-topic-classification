@@ -1,0 +1,5 @@
+﻿3	float s;	/★定义变量s, s为局部变量V
+1	float func(float a, float b)
+2	{
+4	s=ab;	/求a与b的乘积s ★/
+5	return s;	/返回 s /

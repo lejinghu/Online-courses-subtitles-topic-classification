@@ -1,0 +1,5 @@
+﻿04	{ 05	unsigned a,b，c，mask;	/*定义变量*/
+02 void displaybits(unsjgned int b);		/*函数声明*7
+03 void main()		
+06	printf(??请输入一个整数:\n");	
+07	scanf("%dM,&a);	r输入一个整数a*/

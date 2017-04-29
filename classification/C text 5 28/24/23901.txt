@@ -1,0 +1,5 @@
+﻿今【建议2-2-1】尽可能在定义变量的同时初始化该变量（就近原则）
+for (initialization; condition; update) { dosomething(); } //空行 other();	for (initialization; condition; update) dosomething(); other();
+示例2-2(a)风格良好的代码行	示例2-2(b)风格不良的代码行
+如果变量的引用处和其定义处相隔比较远，变量的初始化很容易被忘记。如果引用 了未被初始化的变量，可能会导致程序错误。本建议可以减少隐患。例如
+int width = 10;	// 定义并初绐化 width

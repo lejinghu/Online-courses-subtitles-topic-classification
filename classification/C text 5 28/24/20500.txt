@@ -1,0 +1,5 @@
+﻿32	int ij;	/定义变量/
+30	void display(int bQ,int n)
+31	{
+33	for(i=0;i<n;i++)	/输出数组中的元素/
+34	printf(M%4d,,,b[i]);

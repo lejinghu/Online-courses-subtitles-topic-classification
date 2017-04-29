@@ -1,0 +1,5 @@
+﻿定义变量maxvalue		
+1对应代码第8行
+main函数盒图
+	fc?(i=l;i<=10;i-K-)	
+	1 ^ maxvalue =a[i]	

@@ -1,0 +1,5 @@
+﻿int i=0;	/★定义变量i /
+void copystring (char to, char from) /函数定义，参数为字符指针变量/
+{
+while(from! = ,\0,)	/将from指向的字符数组内容复制到to指向的数组中★/
+*to++=from++;

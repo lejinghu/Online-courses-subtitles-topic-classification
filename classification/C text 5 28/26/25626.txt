@@ -1,0 +1,5 @@
+﻿所谓基本类型，也就是像整型、实型、字符型等类型。例如，使用typedef重新定义类 型名的代码如下：
+其中，类型名1是已经存在的类型，如int、float、char、long等；也可以是结构体类型， 如structstudent。类型名2是你重新起的名字，命名规则与变量名的命名规则类似，必须是 一个合法的标识符。
+1.使用typedef为基本数据类型重新命名
+1 2	typedef int COUNT; typedef float SCORE;	/*将int型重新命名为COUNT ★/ /★将float型重新命名为SCORE */
+经过以上重新定义变量，COUNT就代表了 int, SCORE就表示了 float。这样，下面两		

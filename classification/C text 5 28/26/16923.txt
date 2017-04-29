@@ -1,0 +1,5 @@
+﻿wctype ()函数构建wctype_t类型的值，以描述property自变量的宽字符类型。 如果属性值“根据目前地域的LC_CTYPE分类”识别出有效的宽字符类型，那么wctype() 函数就会返回一个非〇的值，可以当作iswctype()函数的第二个自变量：否则返回0。
+#include <wctype.h>
+wctype一t wctyp?( const char property );
+注意：在有关iswctype()函数的讨论中，我们列出许多字符串。不管在何种地域，这些字符串 都可以被用作wctype ()函数的自变量。
+范例

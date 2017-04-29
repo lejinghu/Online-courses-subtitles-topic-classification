@@ -1,0 +1,5 @@
+﻿77^ C湖第二版，Kemighan & Ritchie,第 99 页的底部是：
+9.2为什么会发生混淆
+为什么人们会错误地认为数组和指针是可以完全互换的呢？这是因为他们阅读了标准的 参考文献！
+As format parameters in a function definition (作为函数定义的形式参数），
+然后翻到第100页，紧接前句：

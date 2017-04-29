@@ -1,0 +1,5 @@
+﻿/*变量定义*/
+04	printf("x = %d, y	=%d\n", a, b);	/*	函数ft作*/
+05 06 07	} int sum(const int a, const int b) {		/★定义sum函数★/	
+08		inttmp;			
+09		tmp = a + b;			

@@ -1,0 +1,5 @@
+﻿char filename[30],str[50】;r定义两个字符型数组*/ printf(Hplease input filename:\n"); scanfr%s"，filename);/* 输入文件名 */
+{
+FILE *fp;
+啊你=化|56响丨6113016,>13"))==1^111_1_)/*判断文件是否打开失败*/
+{

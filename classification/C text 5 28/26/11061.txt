@@ -1,0 +1,5 @@
+﻿表23-5 < limit s.h>中的字符型宏
+义类型或函数。
+在〈limits.匕>中，一组宏用于字符型：char、signed char和unsigned char。表23-5 列举了这些宏以及它们的最大值或最小值。
+宏名	取	值	宏的描述_	1
+CHAR_BIT SCHAR_MIN SCHAR_MAX UCHAR一 MAX CHAR_MIN CHAR一MAX MB_LEN_MAX	彡8 ^-127 ^+127 彡255 ① ② 多1	每个字符包含位的个数 最小带符号字符 最大带符号字符 最大无符号字符 最小字符 最大字符 多字节字符最多包含的字节数

@@ -1,0 +1,5 @@
+﻿?	K&RX格，它是Kemighan和Ritchie合著的TTieC/Vogrammi/igLfl/igMage—书中使用的风格，也是 本书中的程序所采用的风格。在此风格中，左大括号出现在行的末尾：
+问：针对复合语句，C语言的书籍好像使用了很多种缩进和放置大括号的风格。哪种风格最好呢？
+答：根据?Mew ■ffiicfter’j Z?i_cft_o/ww7 (Cambridge,Mass.:MIT Press 1993)的内容，共有 4 种缩进和放置 大括号的风格：
+if (line_num = = MAX—LINES) { line_num = 0; page_num++;
+}

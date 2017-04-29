@@ -14,10 +14,11 @@ def extract_and_ocr(filename, region):
     tempfile.seek(0)
     region_data.save(tempfile,"JPEG")
     file={'temp.jpg': tempfile.getvalue()}
-    ocr_engine = CloudOCR(application_id='', password='')
+    ocr_engine = CloudOCR(application_id='Data pretreatment for NLP task', password='8hgku1LB17UZQrKNk72DtUaG')
     result = ocr_engine.process_and_download(file, profile='documentConversion',exportFormat='txtUnstructured', language='ChinesePRC,English')
     x=result['txtUnstructured'].read()
     return x
+
     
 all_titles={}
 
@@ -101,7 +102,7 @@ for fname in (all_files):#for each srt file, find the csv file which contains th
         fff=int(tnames[i])+1
         f_name=str(fname)
         title=all_titles[f_name[:-4]][fff]
-        unnamed=r'\\|\/|\:|\*|\?|\"|\<|\>|\|\||\n|\r'
+        unnamed=r'\\|\/|\:|\*|\?|\"|\<|\>|\|\||\n|\r|\t|\''
         title=re.sub(unnamed,' ',title)
         xxx=open("srtcut/"+f_name[:-4]+"/"+str(i)+"_"+title+".txt","w")
         for text in texts[i]:

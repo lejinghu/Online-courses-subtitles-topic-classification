@@ -1,0 +1,5 @@
+﻿STDIO.H 定义Kernighan和Ritchie在Unix System V中定义的标准和扩展 的类型和宏。还定义标准I/O预定义流：stdin,stdout和stderr，说明I/O流子 程序。
+STDARG.H	定义读函数参数表的宏。（如vprintf,vscarf函数）。
+STDDEF.H	定义一些公共数据类型和宏。
+STDLIB.H	说明一些常用的子程序：转换子程序、搜索/排序子程序等。
+STRING.H	说明一些串操作和内存操作函数。

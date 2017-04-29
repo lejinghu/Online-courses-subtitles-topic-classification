@@ -1,0 +1,5 @@
+﻿04	/*定义并初始化各种字符型变量*/			
+02
+03	int main(void) {
+05	char cl = '\n';			/*定义cl */
+06 07 08 09	unsigned char c2 = char c3 = 49;	'\t';		/*定义c2 */ /*定义c3 */

@@ -1,0 +1,5 @@
+﻿■表7-1字符型、整型的名称和简称
+signed long int和signed long和long int和long,都是同一种类型。接下来我们将使
+用最简短的表示方法，即各行最右边的写法。
+字符型	char signed char unsigned char			
+	signed short int	signed short	short int	short

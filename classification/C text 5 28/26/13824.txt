@@ -1,0 +1,10 @@
+﻿unsigned	定义无符号的整型或字符型变量或指针
+typedef	为数据类型定义別名
+union	定义共用体类型
+void	定义空类型变量或空类型指针或指定函数无返回值
+while	定义while循环语句
+unsigned	定义无符号的整型或字符型变量或指针
+typedef	为数据类型定义別名
+union	定义共用体类型
+void	定义空类型变量或空类型指针或指定函数无返回值
+while	定义while循环语句

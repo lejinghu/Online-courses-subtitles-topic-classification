@@ -1,0 +1,5 @@
+﻿增加内存地址
+高位存储法，从右到左按位存储
+低位存储法，从左到右按位存储
+
+8. typ?d￡ int fp±(>； / typ? definition / fpi xt / 'variable declaration /

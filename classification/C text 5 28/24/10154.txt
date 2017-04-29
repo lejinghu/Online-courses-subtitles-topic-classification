@@ -1,0 +1,5 @@
+﻿struct的声明和变量定义与enum类似。 struct { int a; int b;
+//声明枚举类型EE, TEE只是一个临时的tag名。
+//声明EE类型的变量var4。
+}sl;	//直接声明一个结构体变量si, si有两个int类型的成员。
+typedef struct tagMYS { int a; int b;

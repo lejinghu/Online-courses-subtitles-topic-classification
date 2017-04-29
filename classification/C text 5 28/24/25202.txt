@@ -1,0 +1,5 @@
+﻿int i, a [] = { 21,34,11,45,89,26,87,39, 63,50 },n;	/ 定义变量和数组 a
+19
+20 21
+n=sizeof(a)/sizeof (a[〇3); maxminvalue(a,n);
+printf (ffmin=%d/max=%d\n,l/min, max),

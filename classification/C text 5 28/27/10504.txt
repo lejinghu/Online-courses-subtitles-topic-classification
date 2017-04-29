@@ -1,0 +1,5 @@
+﻿程序采用布尔型值的数组跟踪数中出现的数字。名为digit_Seen的数组有十个可能的数 字，数组元素的下标索引从0到9。最初的时候，每个数组元素的值都为0 (假的)。当给出数n 时，程序一次一个地检査n的数字，并且把每次的数字存储在变量digit中，然后用这个数字作 为数组digit_seen的下标索引。如果digit_seen[digit ]为真，那么表不digit至少在n中 出现了两次。另一方面，如果digit_seen[digit]为假，那么表示digit之前未出现过，因此 程序会把digit_seen [digit ]设置为真并且继续执行。 repdigitc
+Enter a number： 28212 Repeated digit
+数28212有一个重复的数字（2);而数9357则没有。
+/* Checks numbers for repeated digits */
+#include <stdio.h>

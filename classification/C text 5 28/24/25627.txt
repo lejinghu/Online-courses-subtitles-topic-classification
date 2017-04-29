@@ -1,0 +1,5 @@
+﻿经过以上重新定义变量，COUNT就代表了 int, SCORE就表示了 float。这样，下面两		
+所谓基本类型，也就是像整型、实型、字符型等类型。例如，使用typedef重新定义类 型名的代码如下：
+1 2	typedef int COUNT; typedef float SCORE;	/*将int型重新命名为COUNT ★/ /★将float型重新命名为SCORE */
+行代码的定义就是等价的：		
+1	int a,b,c;	/*定义int型变量a、b、c */

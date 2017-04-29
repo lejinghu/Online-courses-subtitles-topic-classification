@@ -1,0 +1,5 @@
+﻿/定义指向节点的指针/ /★定义变量/
+ListNode CreateList ()
+/定义创建链表函数?
+/初始时，链表为空/
+ListNode pre,cur,h; int i,n; h=NULL;

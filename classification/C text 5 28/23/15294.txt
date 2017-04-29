@@ -1,0 +1,5 @@
+﻿*	This program prints the message PlHello； world," *	on tr.he screen. The program is taken from the *	classic C reference text "The C Programming *	Language'1 iyy Brian Ke^nighan and Dennis Ritchie, V	程序注释
+是所有C程序员共有的财富.而你也即将成为其中的一员。程序的文本见图
+/女	' / * E1: le： hell Old	
+^inciuds <scdi〇.h> #]nciude "genlib.h11	>库包含
+main(}	、	

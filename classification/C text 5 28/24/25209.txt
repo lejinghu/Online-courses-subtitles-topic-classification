@@ -1,0 +1,5 @@
+﻿int i;	/★定义变量i ★/
+void maxminvalue(int	int n>/★函数定义，参数为指针变量b ★/
+{
+int p, end=b+n;	/★定义指针变量 p 和 end ★/
+max=min=b;	/★实际参数为指针变量p ★/

@@ -1,0 +1,5 @@
+﻿58112.00	/*将这个浮点数存储到第二个结构的浮点变量income */
+"grilled salmon", /*将这个字符串存储到第二个结构的favfood数组*/
+"personality coach", /*将这个字符串存储到第二个结构的job数组*/
+};/*注意给结构成员初始化分隔的规则则以，号分隔成员，最后一个不需要, 号*/
+printf ("Dear %〇s,\n\n",felbw.handle.first); /* 使用嵌套结构的成员 */ printf ("%s%s.\n",msgs[0], fellow.handle.first); printf ("%s%s\n", msgs[1], felbw.job); printf ("%s\n",msgs[2]);

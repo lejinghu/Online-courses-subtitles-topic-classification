@@ -1,0 +1,5 @@
+﻿4	float x;	/定义变量 x
+2	void main()	』
+3	{
+i艮我学C语言	…卜
+5	printf ("请输入 x 的值:\n”）；

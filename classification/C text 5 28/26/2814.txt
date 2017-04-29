@@ -1,0 +1,5 @@
+﻿字符包括印刷字符，如A ,&和+。在定义中，char类型使用1个字节的存储空间表 示一个字符。出于历史原因，字符字节通常为8位，但出于表示基本字符集的需要， 它也可以为16位或者更长。 char :字符类型的关键字。一些实现使用有符号的char,另外_些则使用无符号 char。
+unsigned 关键字表示无符号数，例如：unsigned int, unsigned long 和 unsigned short。单独的 unsigned 等价于 unsigned int 类型。
+字符：
+C允许使用signed和unsigned关键字标志char的符号属性。
+布尔值:

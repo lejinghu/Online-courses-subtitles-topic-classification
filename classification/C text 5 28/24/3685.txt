@@ -1,0 +1,5 @@
+﻿换句话说，声明结构的过程和定义结构变量的过程可以被合并成一步.如下所示，将声 明和变量定义合并在一起，是不需要使用标记的一种情况.
+struct book { char tite[MAXTITL]; char author[MAXAUTL]; float value;
+} library;	/*在定义之后跟变量名*/
+struct {/* 无标记 */ char tite[MAXTITL];
+char author[MAXAUTL]; float value;

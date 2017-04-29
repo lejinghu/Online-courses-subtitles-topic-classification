@@ -1,0 +1,5 @@
+﻿(D)	在一个函数内部，可以在复合语句中定义变量，这些变量只在本复合语句 中有效
+(B)	不同函数中，可以使用相同名字的变量
+(C)	形式参数是局部变量
+7.	在下列程序段中，枚举变量cl的值是	。
+enum color { red,yellow,blue=4,green,white}cl; cl=yellow; cl=white;

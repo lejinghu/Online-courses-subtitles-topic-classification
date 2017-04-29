@@ -1,0 +1,5 @@
+﻿PS:浮点型参数的转换
+z	和整数转换说明符一起使用，表示一个5拉」值（sizeof返回的类型）
+示例："/zd"和"％12zx"
+有用于打印浮点类型doube和Ong doube的转换说明符，但没有用于float的说明 符。原因是在K&R C中float值在被用于表达式中或者被用作参数之前，会被自动转 换为doube类型。一般情况下，ANSI C不会自动把float转换成doube不过，为了 保护大量现有的的假设foat参数会被转换成doube的程序，printf ()和其他任何不使 用显式原型的C函数的所有float参数仍然会自动被转换成doube。因此，不管是 K&R C还是ANSI C ,都无需专门的转换说明符来显示float类型。
+printf ()的标志

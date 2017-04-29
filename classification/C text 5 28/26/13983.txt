@@ -1,0 +1,5 @@
+﻿T字符型变置cCharl*/ /*字符型变置cChar2V r为变置賦值*/
+char cCharl; char cChar2; cChar1='a'; cChar2=97;
+printf("%c\n",cChar1); printf("%c\n",cChar2);
+r显示结果为aV r显示结果为a*/
+在上面的代码中可以看到，首先定义两个字符型变量，在为两个变量进行赋值的时候’ 一个变 量賊值为'a*，而另一个赋值为97。最后显示结果的时候都是字符'a’.

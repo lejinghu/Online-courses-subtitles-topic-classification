@@ -1,0 +1,7 @@
+那么这个字符集呢，其实就是ASCII码集。
+那ASCII码实际上指的American
+Standard Code for Information
+Interchange。也就是说，
+美国标准信息交换码。ASCII码呢，是由美国国家标准局，也就是ANSI来制定的。
+那么经，后来呢经过稍微的修改，被ISO接纳为国际标准。
+那么在这呢，我也提供了一个相应的国际标准的链接。如果感兴趣的同学呢，可以去看一下。

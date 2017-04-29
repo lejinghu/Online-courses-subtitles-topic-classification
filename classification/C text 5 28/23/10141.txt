@@ -1,0 +1,5 @@
+﻿UNIX操作系统是由美国贝尔实验室发明的一种多用户、多任务的通用操作系统。 1974年美国电话电报公司（AT&T)开始发行UNIX的非商业许可证，允许非贏利的教育 机构免费使用UNIX系统，有力地推动了 UNIX技术的发展和多样化，在随后的年代里 开始出现各种版本的UNIX系统，其中最为著名的是加州大学伯克利分校的BSD版 UNIX系统。从20世纪70年代末开始在市场上出现了不同的UNIX商品化版本，比较 有影响的版本包括SUN公司的SUN OS、Microsoft和SCO公司的XENIX、Interactive 公司的UNIX386/ix、DEC公司的ULTRIX，后来陆续出现比较著名的UNIX系统包括 IBM 的 AIX、HP 的 HP-UX、SCO 的 UNIX 和 ODT 以及 SUN 的 Solaris 等产品。UNIX 的两个发明者由于他们的杰出贡献在20世纪80年代获得IT界的诺贝尔奖一 Turing 奖。
+语言
+10.1 UNIX/Linux 简介 10.1. 1	UNIX/Linux 发展及特点
+随着当前个人计算机中Linux操作系统装机量的增加，Linux越来越多地进人了个 人计算机的使用范畴，本章以Linux为主进行介绍。
+Linux是一套免费使用和自由传播的类UNIX操作系统，它的源代码开放，能运行于 各类硬件平台，包括Intel x86系列和RISC处理器。Linux最早是由芬兰赫尔辛基大学 一位名叫Linus Torvalds的学生设计的，1991年底首次公布于众，同年11月发布了 0. 10 版本，12月发布了 0.11版本。在Linus的带领下，Linux通过Internet广泛传播，吸引着 世界范围的开发者对其进行不懈的开发。Linux是在GNU公共许可权限下免费获得 的，以高效性和灵活性著称。

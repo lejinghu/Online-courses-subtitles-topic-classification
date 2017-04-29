@@ -1,0 +1,5 @@
+﻿//第1个scanf函数需要用户输入披萨的价格	个浮点型变量。
+{
+char topping[24]; int slices; int month, day, year; float cost;
+//如果用户在价格前未键入$,程序可能会出错。
+printf("How much does a pizza cost in your area?">;

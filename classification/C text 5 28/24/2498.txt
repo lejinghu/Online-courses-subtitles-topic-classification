@@ -1,0 +1,10 @@
+﻿★使用缺少struct名的形式定义结构体类型，并定义变量v */
+?'?s. / /
+★ * *
+truct {
+int a; double b;
+★使用缺少struct名的形式定义结构体类型，并定义变量v */
+?'?s. / /
+★ * *
+truct {
+int a; double b;

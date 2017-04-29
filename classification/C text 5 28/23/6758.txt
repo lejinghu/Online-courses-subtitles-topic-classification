@@ -1,0 +1,5 @@
+﻿在 1978 年 Brian W.Kemighian 和 Dennis M.Ritchie 写了 本名著 77ie C /Vograwm/ng Itwgwage,从而使C语言成为目前世界上使用最为广泛的高级程序设计语言。但随着C 语言的发展，出现了不同的版本，这些版本之间往往是不兼容的，这给程序开发人员带 来了很大的困难。
+1963年，剑桥大学将ALGOL 60语言发展成为CPL (Combined Programming Language)语言。1967年，剑桥大学的Matin Richards对CPL语言进行了简化，于是产 生了 BCPL语言，该语言主要用于系统软件的开发。1970年，美国贝尔实验室的Ken Thompson将BCPL语言进行了修改，并为它起了一个有趣的名字——“B语言”，意思 是将CPL语言煮干，提炼出它的精华。此外，他还用B语言编写了第一个UNIX操作 系统。
+1972年，贝尔实验室的Dennis M.Ritchie在ALGOL、BCPL和B语言的基础上产生 了C语言。C语言利用了这些语言中的很多概念，并添加了数据类型的概念及其他功能 强大的新特性。由于C语言是与UNIX操作系统一起被开发出来的，因此它与UNIX有 很大的关联，UNIX操作系统几乎完全是使用C语言编写的。由于C语言简单易学并且 功能强大，因此迅速发展成为了世界上最为流行的程序设计语言之一。
+1983 年，美国国家标准局（American National Standards Institute, ANSI)任命了一 个技术委员会来定义C语言的标准。该委员会于1989年批准了一个C语言版本，这就
+是现在的ANSI C版本。该版本又在1990年被国际标准组织（International Standards Organization,丨SO)批准，该版本又称为C 89/90。

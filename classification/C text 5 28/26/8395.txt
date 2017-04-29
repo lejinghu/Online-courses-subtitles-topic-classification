@@ -1,0 +1,5 @@
+﻿宇符类型的表示取决于目标计算机的字符处理设备和宇符串处理设备的性质。字符类型有 一些特殊特性，使其不同于普通带符号类型和无符号类型。例如，普通char类型可能是带符号 类型、无符号类型或两种类型的海合。为了提高效率，C语言编译器可以随意-下列两种方式处
+char pr〇vtpt； / a pointer to a ch&zr&ct?r /
+ch&r padding_cbaract?r ■ 1 \0 j / a singl character /	□
+理char类型：
+1.	char类型可以是等价于signed char的带符号整型类型。

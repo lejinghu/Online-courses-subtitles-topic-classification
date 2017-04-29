@@ -1,0 +1,5 @@
+﻿表示p是一个指向字符变量c的指针变量。
+如：
+char c, *p=&c;
+而：
+char *s="C Language";

@@ -1,0 +1,5 @@
+﻿14	char ch;	/ ★定义字符变量ch */
+12	1.	
+13	int i,j,len;	/*定义int型变量*/
+15	len=strlen(str);	/*求字符数组的长度★/
+16	for(i=0f j=len-l;i<len/2;i++,J	)—)/★通过循环将数组两端的字符交换，

@@ -1,0 +1,5 @@
+﻿exp	double exp(double x)	求ex的值，返回值为双精度浮点型
+abs	int abs(int x)	求整数x的绝对值，返回值为整型
+cos	double cos(double x)	求双精度浮点型X的余弦值，X为弧度，返回值为双精度 浮点型
+fabs	double fabs(double x)	求双精度浮点数X的绝对值，返回值为双精度浮点型
+floor	double floor(double x)	求不大于X的最大整数，返回值为双精度浮点型

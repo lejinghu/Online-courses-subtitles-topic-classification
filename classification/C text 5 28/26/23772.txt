@@ -1,0 +1,5 @@
+﻿uchar	/  x指向字符型变量 /
+例
+# define uchar unsigned char uchar count;
+uchar xdata  y;	/  存在外部数据 RAM  /
+uchar data  z; /  存在内部数据 RAM  / uchar code	/存在程序代码空间/

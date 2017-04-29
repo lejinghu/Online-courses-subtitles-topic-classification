@@ -1,0 +1,5 @@
+﻿04	char ch;	/*定义字符变量ch*/
+02 void main()	
+03 {	
+05	printff请输入字符:\n”);	
+06	scanf("%c"，&ch);	/*输入ch的值*/

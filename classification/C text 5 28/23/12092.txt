@@ -1,0 +1,5 @@
+﻿Kemighan, Brian W., and Dennis M. Ritchie. The C Programming Language, 2nd Ed. Englewood-Cliffs, NJ: Prentice Hall, Inc., 1988.
+C语言到现在已经有超过40年的历史了，所以当然不会缺少有关它的信 息。下面只是冰山一角。
+书籍
+这本书己经成为C语言参考书的圣经了。它是为C语言编写的第一本书， 作者之一就是这门语言的发明者Dennis Ritchie。尽管这本书己经有25岁了， 最新版本是第2版，但它仍然被认为是一本不可或缺的参考书。
+Harbison, Samuel P. Ill, and Guy L. Steele Jr. C: A Reference Manual, 5th Ed. Englewood-Cliffs, NJ: Prentice Hall, Inc., 2002.

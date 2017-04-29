@@ -1,0 +1,5 @@
+﻿06		int iResult;	/*定义变量用来存储计算结果*/
+图10.23函数参数调用
+
+07		iResult=AddTwoNum(10，AddTwoNum(3,5)); /* 在参数中调用函数 AddTwoNum()*/	
+08		printf(”计算结果是：％d\n”，iResult); /*将计算结果输出*/	

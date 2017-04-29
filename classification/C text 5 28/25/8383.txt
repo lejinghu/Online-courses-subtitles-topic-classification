@@ -1,0 +1,5 @@
+﻿float r doubltt/ long double	浮点型 *		
+Bool ^			
+mnuza { . ? * }			
+float ComplftKf doubla_Comp^?x, lony double _C〇mpl?x, float Imaginary, double 工magiiuiry, long double 一Imaginary11			
+T *	指针类型		

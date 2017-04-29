@@ -1,0 +1,5 @@
+﻿06	char filename[100],str[100];	/*定义两个字符型数组*/
+\、\ dT语言开玄入n及項b实成
+05	FILE *fp;	
+07	printfT请输入文件路径：\n”)；	
+?08	scanf(f,%sT,,filename);	/*输入文件名*/

@@ -1,0 +1,5 @@
+﻿int i;	/定义变量★/
+tinclude <stdio.h> void main()
+{
+char str[]={"Good Morning","C Program Language","Data Structure", "Microsoft Corporation”};
+char p;	/定义一个指向指针的指针变量p /

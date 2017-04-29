@@ -1,0 +1,5 @@
+﻿17	int m,i;	/★定义变量★/
+15	int prime(int n)
+16	{
+
+18	int flag=l;	/* flag初始时为1，flag是n是否为质数的标志*/

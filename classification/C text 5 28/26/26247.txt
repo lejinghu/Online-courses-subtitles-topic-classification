@@ -1,0 +1,5 @@
+﻿整数类数据类型	字符型	char 型 signed char型 unsigned char型
+	算术类型	
+	枚举型	enum…型
+	整型	signed short int型 unsigned short int型 signed int型 unsigned int型 signed long int型 unsigned long int型
+浮点型		float型 double型 long double型

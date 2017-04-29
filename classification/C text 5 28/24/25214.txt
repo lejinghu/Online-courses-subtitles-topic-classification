@@ -1,0 +1,5 @@
+﻿03	int i;	/*定义变量i */
+01	void maxminvalue (int int n>/指针变量 b 为形式参数★/
+02	{
+04	max=min=b[0];	/*使用下标方式引用数组元素b[0] ★/
+05	for(i=l;i<n;i++)	/★将min、max与数组中的其他兀素值比较★/

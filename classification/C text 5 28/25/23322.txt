@@ -1,0 +1,5 @@
+﻿float xl,x2;	/*定义两个单精度浮点型变量*/
+上面两行语句定义了 3个int型变量i、j、k和两个长整型变量al、a2。
+例2-2
+double zl,z2;	/*定义两个双精度变量*/
+float x; double y;

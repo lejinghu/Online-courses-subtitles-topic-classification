@@ -1,0 +1,5 @@
+﻿这里使用bool声明了 4个布尔变量，假定在源文件中包含了<stdbool.h>*文件。if 语句的工作方式与前面的测试相同。当然，也可以在一步中定义age_CheCk的值，如下 所示：
+if(age一check 丨丨 savings_check)
+printf ("Either you * re a teenager, or you1 re rich, or possibly both.");
+bool age一check = age > 12 && age < 20;
+bool savings_check = savings > 5000; if(age_check || savings—check)

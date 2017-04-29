@@ -1,0 +1,10 @@
+﻿它说明P是一个指向常量字符串的字符型常量指针数组。此时，p的元素本身不能修改，p的 元素所指对象也不能修改。
+又例如声明语句：
+const char *const p[2]={"left","right"};
+【例8.18】理解指针数组含义的编程举例。
+#include "stdio.h" int main(void)
+它说明P是一个指向常量字符串的字符型常量指针数组。此时，p的元素本身不能修改，p的 元素所指对象也不能修改。
+又例如声明语句：
+const char *const p[2]={"left","right"};
+【例8.18】理解指针数组含义的编程举例。
+#include "stdio.h" int main(void)

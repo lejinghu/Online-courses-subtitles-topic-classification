@@ -1,0 +1,5 @@
+﻿//定义三个字符变量
+int main (void) {
+char row,line,ch;
+ch = 'F';
+//将变量F赋值给ch

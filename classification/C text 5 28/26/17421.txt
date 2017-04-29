@@ -1,0 +1,5 @@
+﻿09	printfT字符是：％c\n”,b);	/*输出字符型*/
+07		
+08	printff整数是 ％d\n”,a);	/*使用printfQ函数输出整型*/
+10	printfT实数是：％f\n'c);	/*输出浮点型*/
+11	printfT字符串是：％s\n"，"I_BELIEVE!_	/*输出字符串*/

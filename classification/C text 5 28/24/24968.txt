@@ -1,0 +1,5 @@
+﻿04		int s,a,b;	/★定义变量s、a、b ★/
+02	void main 〇		
+03	{		
+05		scanf("%d,%d",&a,&b);	/*输入a和b的值★/
+06		s=sum(a,b);	/*调用求和函数sum */

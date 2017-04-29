@@ -1,0 +1,5 @@
+﻿/* cval存放字符型可变参数，pch用于解析格式串*/
+va—list ap; char cval, *pch; char *sval; char cvt[320]; int ival, m, n; double dval; int cnt = 0;
+/*第一步，定义va list类型的对象ap */
+/*用于指向字符串类型的用兼用于指向转换后的字符串*/ /*存放转换后的字符串，双精度浮点数字串最长约310位*/ /* ival存放整型可变参数，m, n用于函数fcvt中*/ /* dval存放双精度浮点型可变参数*/
+/* cnt用作计数器，存放输出字符的个数*/

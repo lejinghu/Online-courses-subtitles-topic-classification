@@ -1,0 +1,5 @@
+﻿(1)先定义一个指向字符型数据的指针数组str,并初始化，代码如下：
+【例11-19】使用指针数组存放4个字符串，编写一个函数，要求按照字母顺序将字符 串从小到大排列。
+分析：要实现该程序，可以按照以下几个步骤来操作。
+char str[] = {"Good Morning", "C Program Language", "Data Structure", "Microsoft Corporation"};
+该指针数组str包含4个指针变量，分别指向4个字符串。这4个指针变量分别是str[0]、

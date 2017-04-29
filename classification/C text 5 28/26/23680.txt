@@ -1,0 +1,5 @@
+﻿bdata char bary[4]; /  bary [4]定义为 bdata 字符型数组  /
+例先定义变量的数据类型和存贮类型：
+bdata int ibase,	/  ibase 定义为 bdata 整型变量  /
+然后可使用“sbit”定义可独立寻址访问的对象位：
+sbit mybitO = ibase  0?,	/ 	mybitO 定义为 ibase 的第 0 位		/

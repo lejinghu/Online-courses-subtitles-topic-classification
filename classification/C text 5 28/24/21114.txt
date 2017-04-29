@@ -1,0 +1,5 @@
+﻿/变量定义V
+/调用函数displaybits/
+/ 函数定义 d isplay bits/
+printff十进制形式：b=%d\n"，b); 以十进制形式输出bV printff二进制形式：")；
+mask=1?31;	/mask为 10000000 00000000 ?0000000 00000000/

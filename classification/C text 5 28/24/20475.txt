@@ -1,0 +1,5 @@
+﻿定义变量i
+fl函数盒图
+定义变量power并赋初值
+power*=n
+return power

@@ -1,0 +1,5 @@
+﻿4	int a,b,sum; /★变量定义说明语句/
+2	void main()
+3	{
+5	printf ("请输入两个整数：\n" > ;
+6	scanf("%d,%d",a,b)/

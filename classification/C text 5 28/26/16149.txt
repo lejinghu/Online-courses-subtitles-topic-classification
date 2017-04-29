@@ -1,0 +1,5 @@
+﻿可以对字符变量做算术操作，程序自行决定是否将char变量的值解释为字符或整数。比 如，下面的小程序将ch变最的char值，分別解释为一个整数和一个字符：
+char类型也是一个标准的整数类型。然而，char的同义字可以是signed char或者 unsigned char,这是由编译器决定的。因为这是由所使用实现版本自行选择的，所以 严格地说，char、signed char和unsigned char是三种不同的数据类型。
+注意：如果程序声明char类型的值小于0或大于127,不应该使用char,应该使用signed char 或者 unsigned char。
+char ch = 'A';	//数据类型为crhar的变量
+print.f ("The character %c has the character code %d. \n", ch, ch)； for ( ； ch <= 'Z'； ++ch ) printf("%2c", ch);

@@ -1,0 +1,5 @@
+﻿该函数返回以双精度浮点型double值表示的两个时间之间相差的秒数（time2 - timel)
+?	time2 —这是表示开始时间的time_t对象。
+返回值
+实例
+下面的实例演示了 difftime()函数的用法。 #include <stdio.h>

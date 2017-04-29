@@ -1,0 +1,5 @@
+﻿同样，也可以将一个变量定义为指向struct date变量的指针：
+我们可以将变量定义为struct date类型，如下所示
+struct date todaysDate;
+struct date *datePtr;
+刚刚定义的变量datePtr可以如预期形式使用。例如，利用以下赋值语句， 可以将它设定为指向todaysDate:

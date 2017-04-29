@@ -1,0 +1,10 @@
+﻿C.不允许字符型和浮点型相加 D. a的值是字符'A'的ASCII值加上1
+(26)	若变量a是int类型，并执行了语句：a=W+1.6;，则正确的叙述是（	）。
+A.	a的值是字符C	B.	a的值是浮点型
+(27)	语句 printf("a\bre\'hi\'y\\\bou\n");的输出结果是（	）。
+A.	a\breVhi\'y\\\bou	B.	a\bre\'hi\'y\bou
+C.不允许字符型和浮点型相加 D. a的值是字符'A'的ASCII值加上1
+(26)	若变量a是int类型，并执行了语句：a=W+1.6;，则正确的叙述是（	）。
+A.	a的值是字符C	B.	a的值是浮点型
+(27)	语句 printf("a\bre\'hi\'y\\\bou\n");的输出结果是（	）。
+A.	a\breVhi\'y\\\bou	B.	a\bre\'hi\'y\bou

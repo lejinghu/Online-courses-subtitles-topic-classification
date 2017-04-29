@@ -1,0 +1,5 @@
+﻿(1)	定义单精度浮点型Pie表示圆周率，在常a 3.14后加上f表示为单精度类型。变童fArea表 示圆的面积，变量fRadius表示圆的半径。
+float fArea; float fRadius;
+putsf Enter the radius:"); scanf("%r,&fRadius); fArea=fRadius*fRadius*Pie; printf("The Area is: %.2f\nM,fArea); return 0;
+(2)	根据puts函数输出的程序提示信息，使用scanf函数输入半径的数据，将输入的数据保存在 变量fRadius中。
+(3)	圆的面积=圆的半径的平方X圆周率?运用公式，将变S放入其中进行计算圆的面积，最 后使用printf函数将结果输出。在printf函数中可以看到％.2￡格式关键字，其中的.2表示取小数点后 两位。

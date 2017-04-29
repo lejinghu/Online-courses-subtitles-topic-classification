@@ -1,0 +1,5 @@
+﻿例9-2用函数将一个浮点型数据写入磁盘文件fb.dat中，并测试该函数的返回值， 再将该浮点型数据从磁盘文件fb.dat中读出，且在屏幕上输出。
+abc/
+1
+#include <stdio.h> main()
+{ FILE *fp; intj; float i; scanfC^/of&i);

@@ -1,0 +1,5 @@
+﻿15	int	/★变量定义★/
+13	int selectsort(int b[], int n)
+14	{
+16	for(i=0;i<n-l;i++)	/外层循环控制排序的趟数V
+17	{

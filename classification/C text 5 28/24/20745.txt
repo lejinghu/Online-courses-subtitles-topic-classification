@@ -1,0 +1,5 @@
+﻿15	int i=0;	/定义变量i/
+13	voidcopystring(charto[|，charfrom[])/函数定义，参数为数组名/
+14	{
+16	whileGrompp^O')	/通过循环将数组from中的字符赋值到to中/
+17	{

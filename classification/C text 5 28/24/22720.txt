@@ -1,0 +1,5 @@
+﻿/*变量定义*/
+int main ()
+{
+int a, b; int c; float f;
+/*实际初始化*/

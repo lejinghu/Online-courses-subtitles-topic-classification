@@ -1,0 +1,5 @@
+﻿puts("该环境下各字符型、整型数值的范围"）； printfCchar	:%d~%d\n",	CHAR_MIN
+CHAR_MAX); SCHAR_MAX); UCHAR_MAX);
+:-32768?32767 下略
+print/( "signed char	:%d?％d\n",	SCHAR_MIH
+print/C'unsignd char	:%d~%d\n",	0

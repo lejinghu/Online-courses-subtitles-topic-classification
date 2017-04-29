@@ -1,0 +1,5 @@
+﻿log 10	double loglO(double x)	求log10x，返回值为双精度浮点型
+floor	double floor(double x)	求不大于X的最大整数，返回值为双精度浮点型
+log	double log(double x)	求lnx即l〇gex,返回值为双进度浮点数
+pow	double pow(double x,double y)	求xy的值，返回值为双精度浮点型
+rand	int rand(void)	产生0到32767之间的整数，返回值为整型

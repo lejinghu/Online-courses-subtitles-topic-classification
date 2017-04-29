@@ -1,0 +1,5 @@
+﻿/定义变量/
+36	float average(float x.float y)
+/函数定义，求两个数的平均值/
+/求两个数的平均值z/
+/返回z/

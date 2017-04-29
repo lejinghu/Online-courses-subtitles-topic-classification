@@ -1,0 +1,10 @@
+﻿在程序中定义一个整型变量ilnt,在printf函数中使用格式字符％d进行输出。字符型变量cChar 赋值为'A <3>,在printf函数中使用格式字符％<:输出字符。格式字符％f是用来输出实型将变《的数值。在 最后一个printf输出函数中，可以看到使用％3将一个字符串进行输出，字符串不包括双引号。' 运行程序，显示效果如图5.6所示。	?
+int ilnt=10; char cChar='A'; float fFloat=12.34f;
+printf(Hthe int Is: %d\nH,ilnt); printf("the char is: %c\n",cChar); printffthe float is: %f\nH,fFloat); printf(Hthe stimg is: %s\n","l LOVE YOU"); return 0;
+	<3>	在程序代码中，定义的长整型变量在使用printf对其进行输出时，应该在％d格式字符中添 加1字符，继而输出长整型变量。
+(2)	%s用来输出一个字符串的格式字符，在结果中可以看到输出了字符串“LOVE”。
+在程序中定义一个整型变量ilnt,在printf函数中使用格式字符％d进行输出。字符型变量cChar 赋值为'A <3>,在printf函数中使用格式字符％<:输出字符。格式字符％f是用来输出实型将变《的数值。在 最后一个printf输出函数中，可以看到使用％3将一个字符串进行输出，字符串不包括双引号。' 运行程序，显示效果如图5.6所示。	?
+int ilnt=10; char cChar='A'; float fFloat=12.34f;
+printf(Hthe int Is: %d\nH,ilnt); printf("the char is: %c\n",cChar); printffthe float is: %f\nH,fFloat); printf(Hthe stimg is: %s\n","l LOVE YOU"); return 0;
+	<3>	在程序代码中，定义的长整型变量在使用printf对其进行输出时，应该在％d格式字符中添 加1字符，继而输出长整型变量。
+(2)	%s用来输出一个字符串的格式字符，在结果中可以看到输出了字符串“LOVE”。

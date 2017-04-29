@@ -1,0 +1,5 @@
+﻿当某个变ft名称有多重定义时，mde命令行的变董定义，或者makefiles中的变量定 义，通常会重载环境变量。此命令行选项会让环境变量重栽makefile中的变量定义 (但是用override预处理指令声明的变量是个例外>。
+输出调试信息。
+--environment-overrides
+-f filename、--file-filename, --makefile=filename 使用 fiiena/ne作为 makefile。
+-h、 --help

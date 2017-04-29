@@ -1,0 +1,10 @@
+﻿C语言是一个用途广泛、过程性（procedural)的編程语言（programming丨anguage)。1970 年，在新泽西州Murray Hill的AT&T贝尔实验室里，Dennis Ritchie设计出C语言，H 的是为了尽可能地降低所幵发软件对硬件平台的依赖程度，以使用Unix操作系统和一些 通用工具（utility)。C语言的关键特性包括：
+本章W论C语言的基本特性和程序结构的主要元素。
+C语言特性
+?	源代码的可移植性
+?提供非常接近硬件的操作能力
+C语言是一个用途广泛、过程性（procedural)的編程语言（programming丨anguage)。1970 年，在新泽西州Murray Hill的AT&T贝尔实验室里，Dennis Ritchie设计出C语言，H 的是为了尽可能地降低所幵发软件对硬件平台的依赖程度，以使用Unix操作系统和一些 通用工具（utility)。C语言的关键特性包括：
+本章W论C语言的基本特性和程序结构的主要元素。
+C语言特性
+?	源代码的可移植性
+?提供非常接近硬件的操作能力

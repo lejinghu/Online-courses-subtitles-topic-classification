@@ -1,0 +1,5 @@
+﻿14	int i;	/★定义变量i */
+12	void maxminvalue(int b[], int	n)	/★函数定义，参数为数组名★/
+13	{	
+15	max=min=b[0];	/★将b[0]赋值给max和min ★/
+16	for(i=l;i<n;i++)	/*依次将数组b中的元素与max、min比较★.

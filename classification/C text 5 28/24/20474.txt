@@ -1,0 +1,5 @@
+﻿定义变量power并赋初值
+for(i= 1 ;i<=n;i++) sum+=f2(i,k)
+fl函数盒图
+定义变量i
+power*=n

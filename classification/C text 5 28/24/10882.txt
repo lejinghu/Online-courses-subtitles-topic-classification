@@ -1,0 +1,5 @@
+﻿一些在编译期间无法发现的错误将会在链接期间被发现。事实上，如果程序中丢失了函数 定义或变量定义，那么链接器将无法解决外部引用，从而导致出现类似“Undefined symbol”或 “ Unresolved external reference ” 的信息。
+顺便说一句，不是每个人都用makefile的。其他程序维护工具正在变得流行，包括一些集成 开发环境支持的“工程文件”。检查所使用系统的说明文档，看看它是否支持makefile或工程文 件，还是二者都支持。
+15.4.2链接期间的错误
+① Tondo, Nathanson, and yount, Mzyten'ngAf/lM, second Edition, Prentice-Hall 1994。
+通常很容易修改链接器检查到的错误。下面是一些最常见的错误起因：

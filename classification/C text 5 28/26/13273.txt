@@ -1,0 +1,10 @@
+﻿//cl、c2为自动字符变量 //i为寄存器型变量 //a、b为静态整型变量 //x、y为外部整型变量
+例如:
+auto char cl, c2; register i; static int a, b; extern int x, y;
+下面分别介绍以上四种存储类型。
+1?自动变量（auto型变量）
+//cl、c2为自动字符变量 //i为寄存器型变量 //a、b为静态整型变量 //x、y为外部整型变量
+例如:
+auto char cl, c2; register i; static int a, b; extern int x, y;
+下面分别介绍以上四种存储类型。
+1?自动变量（auto型变量）

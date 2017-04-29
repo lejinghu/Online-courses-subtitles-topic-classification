@@ -1,0 +1,5 @@
+﻿/定义变量，aver表示平均成绩/
+int num; char name[20]; float Chinese; float math; float english; float average;
+r定义结构体数组v
+}stup〇0]，t; int i,j,k,count; float aver; printf("请输入记录数:\n");
+scanf("%d"，&count);	/ 输入记录数 count/

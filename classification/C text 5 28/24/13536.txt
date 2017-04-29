@@ -1,0 +1,10 @@
+﻿struct //无名结构体定义变量只能一次
+} studentl, student2;
+或
+char
+char
+struct //无名结构体定义变量只能一次
+} studentl, student2;
+或
+char
+char

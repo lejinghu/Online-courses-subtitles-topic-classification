@@ -1,0 +1,5 @@
+﻿07	int iNum3=10;	/*定义变量，陚值为10*/
+05	{	
+06	int iResult;	/*定义变量用来存储计算结果*/
+08	iResult=iNum3*AddTwoNum(3,5);	/*在表达式中调用函数 AddTwoNum〇*/	
+09	printf(”计算结果是：iResult);	/*将计算结果输出*/	

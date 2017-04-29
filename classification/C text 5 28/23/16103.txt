@@ -1,0 +1,5 @@
+﻿如果读者的兴趣不限于C语言的是什么和怎么样，也想知道为什么，WG14的网站提供 的“C99 Rationale”链接解释许多设计的源由。这份文件是不规范的，只是描述标准化 进程的起因和限制。C89 Rationa丨e的网址是如 果想知道C语言是如何“一开始变成那样的”，不可错过C语言原创者Dennis Ritchie的 一篇文章“The Development of the C Language”（C语言开发），也可以参考他在贝尔 实验室时期的其他历史文献，网址是心//?/flh.com/cm/cj/vWio/ymr。
+介绍如何使用GNU调试器执行程序，以及如何分析程序的执行行为以找出逻辑错误。
+进一步提高 本书中许多地方都介绍进一步提升编程能力所需阅读的参考资料，除此之外，还有??些 资源站点提供更多细节信息，诸如国际C语言标准的官方网站/mp.7/vvvi，vv.印尺/ 77c//sC22/h^/4提供最新的C99标准，以及目前该工作小组正在执行的计划。
+如果想了解浮点数相关的细节信息（这超出C语言的范畴），你可以阅读DavidGokiberg 的详细阐述，“What Every Computer Scientist Should Know About Floating-Point Arithmetic”，目前存放该文件的网址是	w/i.comAoMrce/506-35(58/
+ncg_goldberg.html 0

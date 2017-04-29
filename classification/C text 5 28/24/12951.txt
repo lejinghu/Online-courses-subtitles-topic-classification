@@ -1,0 +1,5 @@
+﻿	char ch, chi, ch2；			//变量定义
+2 3 4 5 6	#include	<conio.h>		
+	void main	()		
+8	ch=getche ();			//读取一字符
+9	putchar	C\n');		//换行

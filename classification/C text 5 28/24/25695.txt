@@ -1,0 +1,5 @@
+﻿05	char ch,file[20];	/*定义变量ch和数组file */
+03	{	
+04	FILE *fp;	/*定义文件指针fp */
+06	printf ("请输入文件名：\]1">;	
+07	gets(file);	/*输入文件名★/

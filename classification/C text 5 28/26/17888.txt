@@ -1,0 +1,5 @@
+﻿07	char cCharTemp;		/*定义字符变量，用来接收回车*/
+05	{		
+06	char cCharPut;		/*定义字符变量，用来接收输入的字符*/
+08	printf(”第一次输入字符：")；		/*消息提示*/
+09	scanf( M%c", &cCharPut);		/*输入字符*/

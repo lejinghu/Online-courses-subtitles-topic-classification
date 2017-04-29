@@ -1,0 +1,10 @@
+﻿char	定义字符型变量或指针
+break	跳出循环或switch语句
+case	定义switch语句中的case子句
+const	定义常态变量或参数
+continue	在循环语句中，结束本次循环，回到循环体的开始处重新执行循环体
+char	定义字符型变量或指针
+break	跳出循环或switch语句
+case	定义switch语句中的case子句
+const	定义常态变量或参数
+continue	在循环语句中，结束本次循环，回到循环体的开始处重新执行循环体

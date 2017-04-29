@@ -1,0 +1,10 @@
+﻿从上面的结构中可以发现使用typedef定义了一个FILE为该结构体类型，在编写程序时可直接使 用上面定义的FILE类型来定义变量，注意在定义变量时不必将结构体内容全部给出，只需写成如下 形式：
+unsigned char hold; short bsize; unsigned char ^buffer; unsigned ar *curp; unsigned istemp; short token;
+}FILE;
+FILE *fp;
+… 		 	
+从上面的结构中可以发现使用typedef定义了一个FILE为该结构体类型，在编写程序时可直接使 用上面定义的FILE类型来定义变量，注意在定义变量时不必将结构体内容全部给出，只需写成如下 形式：
+unsigned char hold; short bsize; unsigned char ^buffer; unsigned ar *curp; unsigned istemp; short token;
+}FILE;
+FILE *fp;
+… 		 	

@@ -1,0 +1,5 @@
+﻿intp(); /函数指针变量定义/
+main()
+{ int c；
+p = factorial; /函数指针变量p指向factorial ()函以 / for (j = 〇i j<ll j+ + )
+c=(p)(j);	/用指针变量p调用factorial函数/

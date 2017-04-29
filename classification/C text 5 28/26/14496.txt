@@ -1,0 +1,5 @@
+﻿(1)	在程序的代码中，首先为程序声明一个ShowChar函数，在主函数main中定义一个字符型的 变量cResult,调用自定义函数ShowChar得到返回的值，使用printf系统函数将所得到的结果进行输出 显示。
+/*输入一个整型变置V r返回的是整型V
+printf("please input a number:\n"); scanf("%d",&iNumber); return iNumber;
+(2)	在主函数main外是ShowChar函数的定义，在其函数体中定义的是一个整型变量，用户通过 提示信息输入数据，最后将数据进行返回。
+(3)	在这里可以看到虽然在ShowChar函数中返回的是int型变量，但是由于定义时指定的返回 值类型是char型，因此返回值是char类型。

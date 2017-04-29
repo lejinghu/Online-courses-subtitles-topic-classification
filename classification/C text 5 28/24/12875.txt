@@ -1,0 +1,5 @@
+﻿6 n	char ch,	chi, ch2;	//变量定义	
+	void main(	)		
+5	{			
+I 8	ch=getche();		//读取一字符	
+9	putchar(’	\n')；	//换行	

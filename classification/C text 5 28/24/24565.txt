@@ -1,0 +1,5 @@
+﻿04	float score;		/★定义变量score表示成绩★/
+02	void main〇		
+03	{		
+05	printf ("请输入一个学生成绩（0?100) \n"> ;		
+06	scanf&score>;		/★输入成绩赋给score */

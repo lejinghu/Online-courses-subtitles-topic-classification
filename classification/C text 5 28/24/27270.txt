@@ -1,0 +1,5 @@
+﻿(4)	可以用新类型名定义变量了 ：
+(2)	将变量名换成新类型名： char * CHARP ；
+(3)	在最左面加上关键字typedef: typedef char * CHARP；
+CHARP p；
+14.2?结构体类型

@@ -1,0 +1,5 @@
+﻿函数把忒中的低字节写到对ream指向的输出流中。由于调用时，字符型变元都变换成整型，因而我们可 以用字符型变量做putcO的变元。putc()常作为宏来实现。
+#	include < stdio. h >
+int putc(int ch, FILE * stream);
+如果成功,putcO返回写人的字符，出错时返回EOF。如输出流按二进制方式打开，EOF就是CA的合法内 容。因此,必须用feirorO确定是否出错。
+13.25.1	例子

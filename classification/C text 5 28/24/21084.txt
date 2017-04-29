@@ -1,0 +1,5 @@
+﻿20	intdl;	/定义变量
+18	int days(DATE d)	/函数days的定义/
+19	{
+21	switch (d. month)	/ 判断 d. month是第几个月 V
+22	{

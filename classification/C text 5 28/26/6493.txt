@@ -1,0 +1,10 @@
+﻿float、double和char，分别表示整形、浮点型、双精度型和字符型。例如：
+类型标识符变量名，1变量名2，...，变量名n;
+其中，类型标识符用以说明变量的数据类型，对于基本数据类型来说，它可以是int、
+int 1，j，k; float length; double height; char c;
+分别说明变量i、j和k是整形的，变量length是浮点型的，变量height是双精度型 的，变量c是字符型的。变量名是用户自定义的一般标识符。
+float、double和char，分别表示整形、浮点型、双精度型和字符型。例如：
+类型标识符变量名，1变量名2，...，变量名n;
+其中，类型标识符用以说明变量的数据类型，对于基本数据类型来说，它可以是int、
+int 1，j，k; float length; double height; char c;
+分别说明变量i、j和k是整形的，变量length是浮点型的，变量height是双精度型 的，变量c是字符型的。变量名是用户自定义的一般标识符。

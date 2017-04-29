@@ -1,0 +1,5 @@
+﻿sin	double sin(double x)	计算X的正弦值，X为弧度，返回值为双精度浮点型
+pow	double pow(double x,double y)	求xy的值，返回值为双精度浮点型
+rand	int rand(void)	产生0到32767之间的整数，返回值为整型
+sqrt	double sqrt(double x)	计算X的开平方返回值为双精度浮点型
+tan	double tan(double x)	计算x的正切值tan(x),返回值为双精度浮点型

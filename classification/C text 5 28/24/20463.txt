@@ -1,0 +1,5 @@
+﻿05	int a,b,s;	/*定义变量a、b、s*/
+03	void main()
+04	{
+06	scanf(H%d，％d"，&a,&b);
+07	s=multi(a,b);

@@ -1,0 +1,5 @@
+﻿05		int i;	/★定义变量i */
+03	void main()		
+04	{		
+06		for(i=l;i<=5;i++)	/*通过for循环调用5次fun函数★/
+07		printf ("%d!=%d\nf,, i, fun (i));	

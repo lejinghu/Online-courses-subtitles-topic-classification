@@ -1,0 +1,5 @@
+﻿float weght,volume; //定义重量和容量的浮点变量 int sze,letters;	//定义字母letters整数变量
+int main (void)
+{
+char name[40];	//定义字符数组
+printf ("Hi! What's Your first name?\n");

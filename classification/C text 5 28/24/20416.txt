@@ -1,0 +1,5 @@
+﻿03	int c;	/*定义变量*/
+01	void print(int a,int b)	/*函数类型为void，没有返回值*/
+02	{	
+04	c=a+b;	
+05	printf(“sum=%d\n”，&c);	/*输出8与|3和*7

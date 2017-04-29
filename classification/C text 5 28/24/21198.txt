@@ -1,0 +1,5 @@
+﻿(2)定义变量a、b、c和d，分别存放4个结点中的数据。代码如下:
+06	struct student next;	/指向结构体指针
+07	}；
+01	struct student a={10901，??郭庆峰"，"北京"};
+02	struct student b={10902,"王志恒陕西"};

@@ -1,0 +1,10 @@
+﻿(1)定义一种结构体类型，然后再用该类型定义变量。例如：
+17.2.5定义结构体类型与变量的其他形式
+本实验前面我们都用typedef struct定义结构体类型，这是?种容易使用也是较为实用 的方法。本W我们介绍不采用typedef定义结构体类型及变量的方法?
+struct person / 定义结构体类型 struct person /
+char name[10]; char sex[3]; char tel[12];
+(1)定义一种结构体类型，然后再用该类型定义变量。例如：
+17.2.5定义结构体类型与变量的其他形式
+本实验前面我们都用typedef struct定义结构体类型，这是?种容易使用也是较为实用 的方法。本W我们介绍不采用typedef定义结构体类型及变量的方法?
+struct person / 定义结构体类型 struct person /
+char name[10]; char sex[3]; char tel[12];

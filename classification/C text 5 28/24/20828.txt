@@ -1,0 +1,5 @@
+﻿26	float z;	/*定义变量*/
+22 23 }	return r;	/*返回「*/
+24	float add(float x,float y) 25	{		/*函数定义，求两个数的和V
+27	z=x+y;	/*求两个数的和Z*/
+28 29 }	return z;	/*返回Z*/

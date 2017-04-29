@@ -1,0 +1,5 @@
+﻿05	int n,result;	/★定义变量n和result ★/
+03	main()	
+04	{	
+06	scanf("%d",&n);	/★输入n的值*/
+07	result=fibonacci(n);	/*调用 fibonacci 函数★/

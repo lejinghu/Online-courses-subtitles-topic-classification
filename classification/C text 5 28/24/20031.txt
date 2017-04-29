@@ -1,0 +1,5 @@
+﻿相应的程序如下： 01	#include<stdio.h> 02	void main() 03	{ 04	float score;		/*定义变量score表示成绩
+这里的else同样是对上一个if条件的否定，只有条件score<60。只是else之后没有if条件 了。根据上面的分析，很容易得到程序流程如图6.8所示。
+
+05	printf(?请输入一个学生成绩(0~100)\n");	
+06	scanf("%f’,&score);	/*输入成绩赋给score*/

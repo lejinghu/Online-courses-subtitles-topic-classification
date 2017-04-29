@@ -1,0 +1,5 @@
+﻿提示switch圆括号中使用的变量可以是整型变量或字符变量。
+从某种程度上看，default的工作方式与else很相似。如果if的测试条件为假， 就执行else;类似地，如果所有的case条件都未能与switch的变量匹配，就执行 default。虽然default也是一个选项（就像else)，但是用default来处理未知的 switch值是个很好的编程习惯。
+
+不要使用float或double类型的变量进行switch测试。
+17.2	break f〇 switch

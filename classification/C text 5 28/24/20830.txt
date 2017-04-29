@@ -1,0 +1,5 @@
+﻿32	float z;	/*定义变量*/
+28 29 }	return z;	/*返回Z*/
+30	float subtract(float x.float y) 31	{		/*函数定义，求两个数的差*/
+33	z=x-y;	/*求两个数的差Z*/
+34 35	}	return z;	/*返回z*/

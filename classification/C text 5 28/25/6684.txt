@@ -1,0 +1,5 @@
+﻿float score;	/*成绩，浮点型数据作为结构成员*/
+char name[20]; /*姓名，字符数组作为结构成员*/ mt no;	/*学号，整型数据作为结构成员*/
+char gender[6]; /*性别，字符数组作为结构成员*/ int age;	/*年龄，整型数据作为结构成员*/
+};
+在上述结构定义中，结构类型名称为student，可以称这个结构类型为student。在 student中，有5个成员name，no，gender，age，score，它们分别为字符数组，整型数

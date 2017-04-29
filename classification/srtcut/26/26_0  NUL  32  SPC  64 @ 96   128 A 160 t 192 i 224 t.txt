@@ -1,0 +1,7 @@
+﻿我们还知道这个字符集中字符的数量不会超过256个。
+那么这个字符集呢，其实就是ASCII码集。
+那ASCII码实际上指的American
+Standard Code for Information
+Interchange。也就是说，
+美国标准信息交换码。ASCII码呢，是由美国国家标准局，也就是ANSI来制定的。
+那么经，后来呢经过稍微的修改，被ISO接纳为国际标准。

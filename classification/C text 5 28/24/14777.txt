@@ -1,0 +1,10 @@
+﻿其中variablel为定义的共用体变量，而union DataUnion是共用体类型。还可以像结构体那样将类 型的声明和变量定义分开： union DataUnion variable;
+int ilnt; char cChar; float fFloat;
+Variable;	广定义共用体变M*/
+可以看到共用体定义变量的方式与结构体定义变童的方式很相似，不过一定要注意的是结构体变 量的大小是其所包括的所有数据成员大小的总和，其中每个成员分别占有自己的内存单元，?而共用体 的大小为所包含数据成员中最大内存长度的大小。例如上面定义的共用体变童variable的大小就与float 类型的大小相等。
+11.7.2共用体变量的引用
+其中variablel为定义的共用体变量，而union DataUnion是共用体类型。还可以像结构体那样将类 型的声明和变量定义分开： union DataUnion variable;
+int ilnt; char cChar; float fFloat;
+Variable;	广定义共用体变M*/
+可以看到共用体定义变量的方式与结构体定义变童的方式很相似，不过一定要注意的是结构体变 量的大小是其所包括的所有数据成员大小的总和，其中每个成员分别占有自己的内存单元，?而共用体 的大小为所包含数据成员中最大内存长度的大小。例如上面定义的共用体变童variable的大小就与float 类型的大小相等。
+11.7.2共用体变量的引用

@@ -1,0 +1,15 @@
+﻿如果age的值在12?20之间(包含13和19),或者savings的值大于5000,就执行printf() 语句。可以看出，在开始使用更多的运算符时，事情就变得复杂起来。在|丨运算符的左操 作数中，表达式外面的括号并不是必要的，但加上括号，可以使条件更容易理解。使用 布尔变量是有帮助的。可以用下面的代码替换上面的语句：
+if((age > 12 && age < 20)丨丨 savings > 5000)
+printf ("Either you're a teenager, or you're rich, or possibly both.");
+bool over_12 = age > 12;
+bool undere_20 = age < 20;
+如果age的值在12?20之间(包含13和19),或者savings的值大于5000,就执行printf() 语句。可以看出，在开始使用更多的运算符时，事情就变得复杂起来。在|丨运算符的左操 作数中，表达式外面的括号并不是必要的，但加上括号，可以使条件更容易理解。使用 布尔变量是有帮助的。可以用下面的代码替换上面的语句：
+if((age > 12 && age < 20)丨丨 savings > 5000)
+printf ("Either you're a teenager, or you're rich, or possibly both.");
+bool over_12 = age > 12;
+bool undere_20 = age < 20;
+如果age的值在12?20之间(包含13和19),或者savings的值大于5000,就执行printf() 语句。可以看出，在开始使用更多的运算符时，事情就变得复杂起来。在|丨运算符的左操 作数中，表达式外面的括号并不是必要的，但加上括号，可以使条件更容易理解。使用 布尔变量是有帮助的。可以用下面的代码替换上面的语句：
+if((age > 12 && age < 20)丨丨 savings > 5000)
+printf ("Either you're a teenager, or you're rich, or possibly both.");
+bool over_12 = age > 12;
+bool undere_20 = age < 20;

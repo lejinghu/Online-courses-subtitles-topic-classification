@@ -1,0 +1,10 @@
+﻿2.	已有变量定义和函数调用语句： int x=57;
+fun(int x,int y)
+{ }
+isprime(x);
+函数isprimeO用来判断一个整型数;c是否为素数，若是素数，则函数返回1,否则 返回0。请编写isprime〇函数。
+2.	已有变量定义和函数调用语句： int x=57;
+fun(int x,int y)
+{ }
+isprime(x);
+函数isprimeO用来判断一个整型数;c是否为素数，若是素数，则函数返回1,否则 返回0。请编写isprime〇函数。

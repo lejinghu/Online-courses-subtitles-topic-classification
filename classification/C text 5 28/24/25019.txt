@@ -1,0 +1,5 @@
+﻿定义变量power并赋初值
+return sum
+n函数盒图
+定义变量i
+Mi=l；i<=k;i++)

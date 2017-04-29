@@ -1,0 +1,5 @@
+﻿chare;	广定义字符变量V
+int isdigit( int ch );
+例如判断输入的字符是否为数字的方法:
+scanf( "%c". &c >;	广输入字符V
+isdigit⑹；	r调用isdigit函数判断输入的字符V

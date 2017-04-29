@@ -1,0 +1,5 @@
+﻿charcCharTemp;	/*定义字符变量，用来接收回车符V
+int main()
+{ charcCharPut;	/*定义字符变量，用来接收输入的字符?/
+/*消息提示，第一次输入字符*/ r输入字符V r调用函数进行判断V 接收回车符V
+printf("First enter:"); scanf( "%c"t &cCharPut); SwitchShow(cCharPut); cCharTemp=getchar();

@@ -1,0 +1,5 @@
+﻿因为COUNT被定义为int型，所以使用COUNT定义变量与使用int定义变量就是等价的。这样， int和COUNT都可以定义int型变量，也就是说int型有两个名字：int和COUNT。使用typedef将int 命名为COUNT后，并使用COUNT定义变量，这样使人一看就能明白a、b、c是用来计数的。
+01	inta,b,c;	/定义int型变量a、b、c/
+02	COUNTa,b,c;	/定义COUNT型变量a、b, c/
+2.使用typedef为数组类项改新命名
+例如，下面的代码是用NUM定义数组类型：

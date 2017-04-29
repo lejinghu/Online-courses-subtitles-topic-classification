@@ -1,0 +1,7 @@
+256个字符。所以我们可以预想出来，一定存在这样一个字符集。
+首先它规定了C语言中能够出现的一些字符，同时呢
+我们还知道这个字符集中字符的数量不会超过256个。
+那么这个字符集呢，其实就是ASCII码集。
+那ASCII码实际上指的American
+Standard Code for Information
+Interchange。也就是说，

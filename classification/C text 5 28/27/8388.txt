@@ -1,0 +1,5 @@
+﻿C99引入了真正的布尔类型-Bool,还引人头文件Btdbool.h，其中定义了更方便的类型
+else	/* Do this if i 1b zero */
+在i为非〇 (真）时执行statenenti，在i为0时执行s*tat*ment2。，
+名bool和布尔值true与falius。这些名称与C++中的布尔类型一致，但与C语言中传统上使用
+的宏名FALSE与TRUE不同：

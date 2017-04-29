@@ -1,0 +1,5 @@
+﻿11	int i;	/*定义变量★/
+09	{	
+10	FILE *fp;	/*定义文件指针*/
+12	if((fp=fopen("fl.data"	f Mwb+M) ) ==NULL) /*打开文件 fl ★/
+13	{	

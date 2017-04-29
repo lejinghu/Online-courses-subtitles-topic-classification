@@ -1,0 +1,10 @@
+﻿许多非标准C语言编译器替换字符串型与字符型常量中的宏正式参数，但标准C语言禁止这 一操作。
+printf tO<OxFFFF=%d\n,'( (0)<(DxFFFF) >;
+printf	(r\n')<<10) >J	□
+例在这些非标准C语言实现中，TEST宏可能写成如下：
+#define TESTUib) print ￡ t "a<b-%d\n?,	(a)<{b))
+许多非标准C语言编译器替换字符串型与字符型常量中的宏正式参数，但标准C语言禁止这 一操作。
+printf tO<OxFFFF=%d\n,'( (0)<(DxFFFF) >;
+printf	(r\n')<<10) >J	□
+例在这些非标准C语言实现中，TEST宏可能写成如下：
+#define TESTUib) print ￡ t "a<b-%d\n?,	(a)<{b))

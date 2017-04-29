@@ -1,0 +1,5 @@
+﻿/定义变量，为变量赋初值。表示工作时间/ /声明变量，表示一个小时的薪水/
+int iHoursWorded=8;
+int iHourly Rate; int iGrossPay;
+/声明变量，表示得到的工资/
+iHourlyRate=13;	/ 为变量赋值 /

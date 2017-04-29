@@ -1,0 +1,5 @@
+﻿3.	已有变量定义语句： double a=5.0;
+isprime(x);
+函数isprimeO用来判断一个整型数;c是否为素数，若是素数，则函数返回1,否则 返回0。请编写isprime〇函数。
+int n=5;
+和函数调用语句mypow(a，n);用以求a的n次方。请编写double mypow(double x，int y) 函数。

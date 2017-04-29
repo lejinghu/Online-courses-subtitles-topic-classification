@@ -1,0 +1,5 @@
+﻿char filename[30】,str(30】;r定义两个字符型数组V printf("please input filenameAn"); scanf("%s”,filename);/* 输入文件名 */
+{
+FILE *fp;
+咐阼=丨0?61^丨6的巾6，”\〇)==?^1_1〇/*判断文件是否打开失败*/
+{

@@ -1,0 +1,5 @@
+﻿字符型
+图7-6是这些数据类型的汇总。
+?与signed和unsigned相同，short和long也是一种类型说明符。
+signed char	char	unsigned char
+图7-6表示整数的数据类型分类

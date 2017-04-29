@@ -1,0 +1,5 @@
+﻿f	单精度浮点型	fCu^clcArea	单精度浮点型的圆面积
+c gE ch	字符型	chSex	字符型表示性别
+i	整型	iCounter	整型的计数器
+d	双精度浮点型	dWeight	双精度浮点型的重量
+E	指针	pfSource	指向0〇^的指针

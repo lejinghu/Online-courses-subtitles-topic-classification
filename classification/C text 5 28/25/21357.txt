@@ -1,0 +1,5 @@
+﻿浮点型
+整
+型
+字符类型char
+整型int 长整型long 单精度型float

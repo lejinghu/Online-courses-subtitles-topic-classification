@@ -1,0 +1,5 @@
+﻿getchar〇只能接收一个字符.getchar函数得到的字符可以赋给一个字符变量或整型变量，也可 以不赋给任何变量，还可以作为表达式的一部分?例如：
+使用getchar函数时也要添加头文件stdio.h,函数的值就是从输入设备得到的字符。例如从输入设 备得到一个字符陚给字符变置cChar: cChar=getchar();
+	—			——	-
+putchar(getchar〇);  <1>  <2>
+getchar函数作为putchar函数的参数，getchar从输入设备得到字符，然后putchar函数将字符输出。 【实例5.2】使用getchar函数实现字符数据输入。（实例位置：光金\TM\sIV5\2)

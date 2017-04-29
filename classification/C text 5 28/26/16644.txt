@@ -1,0 +1,5 @@
+﻿此fwide㈠函数获取或者设置一个文件的字符类型导向，mode参数决定是设》操作或 获取操作：
+决定一个字符串的表示方式是字节字符，或者采用宽字符。
+<include <scdio.h> include <wchar.h> int fwide( FILE fp, int mode );
+mode >0
+fwide ()函数试着把文件变成宽字符导向。 mode <0

@@ -1,0 +1,5 @@
+﻿05	inti;	/定义变量i/
+03	void main()
+04	{
+06	for(i=1 ;i<=5;i++) /通过for循环调用 5次fun 函数/
+07	printf("%d!=%d\n",i,fun(i));

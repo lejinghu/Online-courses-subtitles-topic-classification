@@ -1,0 +1,5 @@
+﻿int i;	/★定义变量i ★/
+tinclude <stdio.h> void main()
+{
+char strl[]=”Can I help you?",str2[30];	/定义字符串 strl 和 str2 ★/
+for(i=0;str1[i]! =1\01;i++)

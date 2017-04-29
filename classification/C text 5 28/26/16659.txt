@@ -1,0 +1,5 @@
+﻿isblank ()是最近加入的C语言字符类型函数。如果字符自变量是一个空格或制表符字 符，此函数返回非〇值（表示true)。否则，返回0 (表示false)。 范例
+确定某个字符是否为空格或制表符（tab)字符。
+#include <ctype.h> int isblank{ int c );
+这个程序会劃除输入字符串尾端的空格符:
+^define MAX_STRING 80 char raw_name[MAX_STRING];

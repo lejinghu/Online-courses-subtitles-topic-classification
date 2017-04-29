@@ -1,0 +1,5 @@
+﻿/定义变量，a、b、c代表系数，xl和x2代表两个根，delta代表△ ★/ printf ("请输入a、b和c的值（a不能为0): \n") ;	/提示信息★/
+{
+float a,b,c,xl,x2,delta;
+scanf ("%f%f%f",&a,&b,&c>;	/★输入 3 个数据，a 不能为 0 /
+delta=bb-4ac;	"求出△ ★/

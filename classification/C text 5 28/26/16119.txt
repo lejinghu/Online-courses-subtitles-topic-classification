@@ -1,0 +1,5 @@
+﻿基本源代码字符集和基本运行字符集都包含了下面的字符类型：
+编译器转换源代码文件时，编译器所处的环境称为翻译环境（translation environment), 编译器执行时，所处的环境称为运行环境（executionenvironn丨ent)。对C语言来说，翻 译环境和运行环境是不同的。因此，C定义了两个字符集（characterseth源代码字符 集（source character set)是用于组成C源代码的字符集合，而运行字符集（execution character set)是可以被执行程序解释的字符集合。在许多C的实现版本中，这两个字符 集是一样的。如果不一样，那么编译器把源代码中的字符和字符串字面值转换成运行字 符集中的对应元素。
+这两种字符集都包含基本字符集（basic character set)和扩展字符（extended character〉。 C语言没有指定扩展字符，这通常由所在区域语言所决定的。扩展字符连同基本字符集, 就形成了扩展字符集（extended character set)0
+拉丁字母
+A a

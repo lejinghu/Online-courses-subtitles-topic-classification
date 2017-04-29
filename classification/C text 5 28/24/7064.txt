@@ -1,0 +1,5 @@
+﻿05		int a,b,c,d, temp;	/*定义变量*/		
+03	main ()			
+04	{			
+06		printf("Please	input the values:\n",a,b,c, d);	
+07		scanf(,f%d %d %d %d", &a, &b, &c, &d);		

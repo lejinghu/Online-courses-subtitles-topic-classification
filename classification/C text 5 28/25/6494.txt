@@ -1,0 +1,10 @@
+﻿分别说明变量i、j和k是整形的，变量length是浮点型的，变量height是双精度型 的，变量c是字符型的。变量名是用户自定义的一般标识符。
+float、double和char，分别表示整形、浮点型、双精度型和字符型。例如：
+int 1，j，k; float length; double height; char c;
+
+变量在定义
+分别说明变量i、j和k是整形的，变量length是浮点型的，变量height是双精度型 的，变量c是字符型的。变量名是用户自定义的一般标识符。
+float、double和char，分别表示整形、浮点型、双精度型和字符型。例如：
+int 1，j，k; float length; double height; char c;
+
+变量在定义

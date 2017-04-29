@@ -1,0 +1,5 @@
+﻿/*定义变量用来存储计算结果#/ r定义变置，陚值为10V 广在表达式中调用函数AddTwoNumV r将计算结果进行输出v r程序结束v
+广声明函数，函数进行加法计算V int AddTwoNum(int iNuml, int iNum2);
+int main()
+{
+int iResult; int iNum3=10;

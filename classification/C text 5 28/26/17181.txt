@@ -1,0 +1,5 @@
+﻿04	char cl;	/*字符型变量cl*/
+02	int main〇	
+03	{	
+05	char c2;	/*字符型变量c2*/
+06	int il;	/*整型变量il*/

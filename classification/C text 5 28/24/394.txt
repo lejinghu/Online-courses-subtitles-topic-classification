@@ -1,0 +1,5 @@
+﻿} pl,p2, pe[10], pp; /直接定义变量和数组/
+struct /没有给出类型名V {
+char name[10]; char sex[3]; char tel[12];
+17.3
+

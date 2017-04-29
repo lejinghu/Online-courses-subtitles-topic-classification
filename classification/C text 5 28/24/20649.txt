@@ -1,0 +1,5 @@
+﻿inti;	/定义变量i/
+void maxminvalue(int b,int n)
+{
+intp,end=b+n;	/定义指针变量p和end, end指向数组的结束位置/
+max=min=b;	/将第一个元素赋值给max和min/

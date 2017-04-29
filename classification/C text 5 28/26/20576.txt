@@ -1,0 +1,5 @@
+﻿/#定义一个字符变量，
+01	#include<stdio.h>
+/宏定义，定义一个宏名/
+02	#define UPPER 1
+03	void main()

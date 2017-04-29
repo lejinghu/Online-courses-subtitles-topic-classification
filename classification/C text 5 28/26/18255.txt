@@ -1,0 +1,5 @@
+﻿07		char filename[30];	/*定义一个字符型数组*/
+05		FILE *龟；
+06		int i=107;
+08		printf("请输入文件路径：\n”);
+09		scanf(n%sn，filename);/* 输入文件名 */

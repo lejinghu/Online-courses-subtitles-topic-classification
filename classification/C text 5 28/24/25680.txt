@@ -1,0 +1,5 @@
+﻿05	unsigned a,b,c,mask;		/★定义变量*/
+03	void main()		
+04	{		
+06	printf ("请输入一个整数：\n");		
+07	scanf("%d",&a);		/★输入一个整数a */

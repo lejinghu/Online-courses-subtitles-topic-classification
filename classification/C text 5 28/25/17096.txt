@@ -1,0 +1,10 @@
+﻿分析：一个浮点型常数带有不止一个的十进制小数点。
+分析：switch最多只能有257个case。
+0 Too many decimal points (十进制小数点太多）
+0 Too many default cases (default 太多）
+分析：switch语句中出现了不止一个的default语句。
+分析：一个浮点型常数带有不止一个的十进制小数点。
+分析：switch最多只能有257个case。
+0 Too many decimal points (十进制小数点太多）
+0 Too many default cases (default 太多）
+分析：switch语句中出现了不止一个的default语句。

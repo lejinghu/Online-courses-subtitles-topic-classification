@@ -1,0 +1,5 @@
+﻿C99标准增加了支持64位的整数类型long long,还增加了布尔类型和复数类型。CodeBlocks 编译器能够较好地支持C99标准，本节中的例子程序均由CodeBlocks运行通过。
+printf {"\n %3d \t %s", day, weekName [day ]); return 0;
+*2.10新增数据类型
+2.10.1	long long 类型
+long long类型的长度至少应为64位，和其他整型类型一样，有带符号和无符号两种。signed long long的数值范围为-263?263-1，unsigned long long的数值范围为0?2M-1。long long类型的常量 用后缀“LL”或“11”表示。

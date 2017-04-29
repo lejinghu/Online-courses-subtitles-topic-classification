@@ -1,0 +1,5 @@
+﻿iteml:字符变量char varl被定义为data存贮类型，C51编译器将把该变量定位在8051 片内数据存贮区中（地址:〇〇H?0FFH)。
+unsigned int pdata dimension?		item4	*/
+unsigned char xdata vector[l〇][4][4]		item5	* i
+item2:位变量flags被定义为bdata存贮类型,C51编译器将把该变量定位在8051片内数 据存贮区(RAM)中的位寻址区(地址:2〇H?2FH)。
+item3:浮点变量x，y,Z被定义为idata存贮类型，C51编译器将把该变量定位在8051片 内数据存贮区，并只能用间接寻址的方法进行访问。

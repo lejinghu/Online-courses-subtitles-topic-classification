@@ -1,0 +1,5 @@
+﻿类型wcl??r_t (宽字符类型）是整型，可以表示所支持区域设置中任何执行时扩展字符集 的所有不同值。它可能是带符号或无符号类型，也在》tddef ?!!中定义。WCHA|l_l€IN与 WCHAR_MM宏指定《〇1?1：_七类型的数字边界，它们的值不能对应某个扩展字符。
+语法概要
+#includo cwchar.h> typ?de￡ ... wehr_t; typ?d?￡ ... wint_t; typodef ... nabstate_t； typedef …siz_tj #d￡in? WBOF “■ #d?fine HCHAA_HXN ... #d?￡in? WCHAR MAX ...
+[489|	类型也是整型，保存irchar_t类型的所有值和至少一个不在扩展字符集中的值。这个
+常量值由HB0P指定，表示输人结束和其他异常条件。类型不能在普通参数升级时改变。 mbs1:ate_t类型是个非数组对象类型，表示多字节字符序列与宽字符串之间的转换状态。 size_t_stddef .h中定义的类型相同。

@@ -1,0 +1,5 @@
+﻿11	int daysum;	/ 定义变量 /
+09	void main()
+10 {
+12	DATE day1;	/定义结构体变量day1/
+13	printff请输入年月曰:\n");

@@ -1,0 +1,5 @@
+﻿d	双精度浮点型	dWeight	双精度浮点型的重量
+i	整型	iCounter	整型的计数器
+f	单精度浮点型	fCu^clcArea	单精度浮点型的圆面积
+E	指针	pfSource	指向0〇^的指针
+sz	宇符数组	szName	以’他结束的字符数组

@@ -1,0 +1,5 @@
+﻿05	int a,b,s;		/*定义变量a、b、s ★/
+01	#include <stdio,h>		
+02 03 04	int multi(int x, int void main() {	y)；	/*函数的声明放在main的外部★/
+06	scanf("%df %d"/&a,&b);		/★输入a和b的值★/
+07	s=multi(a,b);		/*函数的调用*/

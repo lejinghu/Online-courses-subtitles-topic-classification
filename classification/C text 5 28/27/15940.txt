@@ -1,0 +1,5 @@
+﻿因为布尔类型在genlib.b中被定义成：
+然后使用print f语句：
+pr 丄nt ￡ 4	, booleanNcimes [ flag ]);
+t-.ypedef enum {FALSE, TRUE) bool ;
+常量FALSE的内部值为0, TRUE的内部值为U使用这些数值作为数组booleanNames的下 标值就可以生成对应于布尔型值的字符串。这种情况也同样适用于连续枚举类型。

@@ -1,0 +1,5 @@
+﻿09	double fFloatResult;	/*定义浮点型*/
+07	long IResult;	/*定义长整型*/
+08	long INumber = -1234567890L;	/*定义长整型，为其赋值为-1234567890*/
+
+10

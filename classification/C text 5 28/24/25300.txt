@@ -1,0 +1,5 @@
+﻿15	int i=0;	/*定义变量i */
+13 void copystring (char to [ ], char from[]) /*函数定义，参数为数组名 V
+14 {		
+16	while(from[i]!='\0T)	/ ★通过循环将数组from中的字符赋值到to中★ /
+17	{	

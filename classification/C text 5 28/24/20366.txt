@@ -1,0 +1,5 @@
+﻿03	int c;	/*定义变量C*/
+01	int max(int a,int b)	/*int是类型说明符、max是函数名、a和b都是形式参数*/
+02	{	
+04	if(a>b)	/*如果a大于b*/
+05	c=a;	/*将a赋值给c*/

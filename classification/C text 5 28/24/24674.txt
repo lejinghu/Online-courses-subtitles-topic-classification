@@ -1,0 +1,5 @@
+﻿int fact=l,n,i;	/定义变量 fact、n 和 i ★/
+tinclude <stdio.h> void main()
+{
+05
+06

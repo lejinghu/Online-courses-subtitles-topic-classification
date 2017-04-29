@@ -1,0 +1,5 @@
+﻿14	int i;	/*定义变量i*/
+12	void maxminvalue(intb，int n)	/函数定义，参数为指针变量b/
+13 {		
+15	int *p,*end=b+n;	r定义指针变量p和endV
+16	max=min=*b;	/*实际参数为指针变量P*/

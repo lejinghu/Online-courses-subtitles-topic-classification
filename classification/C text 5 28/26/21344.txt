@@ -1,0 +1,5 @@
+﻿char	声明字符型变量
+double	声明双精度变量
+long	声明长整型变量
+float	声明浮点型变量
+short	声明短整型变量

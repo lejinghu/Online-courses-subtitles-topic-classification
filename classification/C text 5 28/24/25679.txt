@@ -1,0 +1,5 @@
+﻿/★变量定义/
+/调用函数 displaybits /
+/★函数定义 displaybits /
+printf ("请输入一个整数\n"); scanf("%d",&a); displaybits(a);
+}

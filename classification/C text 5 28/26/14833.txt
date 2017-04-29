@@ -1,0 +1,5 @@
+﻿char filename[30];r定义一个字符型数组*/ printffplease input filename:\n"); scanf("%s",filename);/* 檐入文件名 */
+{
+FILE *fp; int i=88;
+if((fp=fopen(fl丨ename,"w"))==NULL)/*判断文件是否打开失败V
+{

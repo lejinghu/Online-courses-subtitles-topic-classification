@@ -1,0 +1,5 @@
+﻿例如果需要真正的无符号宇符类型，则可以指定unsigned char类型。如果需要真正的 带符号字符类型，则可以指定signed char类型。如栗char类型使用8位对二的补码表示法， 并给出下列声明：
+2.	cbar类型可以是等价于unsigned char的无符号整型类型。
+在一些标准化之前的实现中，char类型是个伪无符号整型，即可能只包含非负值，但进行 普通一元转换时，如同带符号类型一样处理&
+unsigned char uc ■ -1； signed char sc ■ -1j char c ? -lj ixxt i ■ uc，j > scf ]c -
+则在所有标准C语言实现中，i的值应为255, j的值应为-1。但是，k的值是255还是-1将由具 体的C语g实现决定。如果实现不能识别关键字signed或不允许unaignod char，则会遇到 歧义的普通宇符的问题6	D

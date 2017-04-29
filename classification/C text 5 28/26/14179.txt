@@ -1,0 +1,5 @@
+﻿定义字符变量，表示大写字符V
+int main()
+char cBig;
+/*定义字符变董，表示小写字符*/
+char cSmall;

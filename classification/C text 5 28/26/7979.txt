@@ -1,0 +1,5 @@
+﻿3.	在C语言中，要求运算数必须是整型或字符型的运算符是	。
+(A) sizeof,&=，《，△	(B) sizeof,?,A，&=
+(C) A，《，sizeof，&=	(D) ?，A，&=sizeof
+(A) &&	(B) &
+4.	siziof(float)是	。

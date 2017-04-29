@@ -1,0 +1,5 @@
+﻿32	int i/j;	/定义变量★/
+30	void display(int b[], int n)
+31	{
+33	for (i=0; i<n;i++)	/★输出数组中的兀素★/
+34	printf (,,%4d,f ,b [i]);

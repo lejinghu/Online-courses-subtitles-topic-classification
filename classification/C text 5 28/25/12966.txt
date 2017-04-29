@@ -1,0 +1,5 @@
+﻿switch (a)	//错误，不可为浮点型表达式
+(1)	switch后面的“表达式”，一般是int、char和枚举型中的一种，而且每个case后 的“常量表达式”的类型应该与switch后面的“表达式”的类型一致。例如，下面的程序 是错误的：
+float a, b=4.0; scanf	&a);
+{
+case 1:	b=b+l； break;

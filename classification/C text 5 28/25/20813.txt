@@ -1,0 +1,5 @@
+﻿【例11-21】已知有一个浮点型的数组a，数组中有4个元素。定义一个指针数组mim[4]， 分别存放数组a中的元素地址，然后定义一个指向指针的指针变量p，通过p依次输出数组a
+Good Morning C Program Language Data Structure Microsoft Corporation
+指向指针的指针变量也可以指向其他类型的指针。下面通过一个实例来说明使用方法。
+的每一个元素。
+01 #include<stdio.h>

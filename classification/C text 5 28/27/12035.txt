@@ -1,0 +1,5 @@
+﻿这个头文件包含了用于处理布尔变量（Bool类型）的定义。
+ULLONG_MAX	unsigned long long int 类型的对象的最大值（18446744073709551615)
+<stdbool.h>
+定	义	含	义
+bool	基本_B〇〇l数据类型的替代名字

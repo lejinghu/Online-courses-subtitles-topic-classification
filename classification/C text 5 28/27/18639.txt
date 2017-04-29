@@ -1,0 +1,10 @@
+﻿两个检查age值的逻辑表达式的结果存储在变量testl和test2中。if表达式现在比使 用bool变量作为操作数的情形简单得多。自然，也可以在一个表达式中使用多个这样的 逻辑运算符：
+bool testl = age > 12; bool test2 = age < 20; if(testl && test2)
+printf ("You are officially a teenager.’’〉；
+if(age > 12 && age < 20 && savings > 5000) printf("You are a rich teenager.");
+上面三个条件都必须是true, printfQ才会执行。即只有age的值在13~19之间(包含 13和19)，且savings的值大于5000,才会执行printf()。
+两个检查age值的逻辑表达式的结果存储在变量testl和test2中。if表达式现在比使 用bool变量作为操作数的情形简单得多。自然，也可以在一个表达式中使用多个这样的 逻辑运算符：
+bool testl = age > 12; bool test2 = age < 20; if(testl && test2)
+printf ("You are officially a teenager.’’〉；
+if(age > 12 && age < 20 && savings > 5000) printf("You are a rich teenager.");
+上面三个条件都必须是true, printfQ才会执行。即只有age的值在13~19之间(包含 13和19)，且savings的值大于5000,才会执行printf()。

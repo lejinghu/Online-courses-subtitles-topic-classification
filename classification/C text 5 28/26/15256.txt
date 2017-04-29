@@ -1,0 +1,5 @@
+﻿函数atomO査找整型常量或变量的值、函数或字符型常量。在源代码中可以出现两类函数:用户定义的 函数或库函数。如果遇到用户定义的函数，则由解释程序执行它的代码，以确定其返回值(函数的调用将在下 节讨论)。但是，如果遇到的函数是库函数，则首先由intemakfuncO査找其地址,然后通过接口函数访问它。 库函数及其接口函数的地址保存在如下所示的intem_fbnC数组中：
+I
+以evaL exp开始的函数及atom()开始的函数实现little C表达式的产生规则。为验证这一点，读者完全 可能想到用一个简单的表达式来执行该分析程序。
+/ * ^Standard libraiy, functions are declared here so they can be put into the internal function table that follows.
+*/

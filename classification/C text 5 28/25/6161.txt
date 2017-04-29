@@ -1,0 +1,5 @@
+﻿//将两个整除相除的值，赋给浮点型变量，得3.0。 floatAnswer = x / y;
+//将两个浮点数相除的值，赋给浮点型变量，得3.8。 floatAnswer = a / b;
+printf("%.If divided by %.If equals %.If\n", a, b, floatAnswer);
+printf("%d divided by %d equals	x, y, floatAnswer);
+//将两个浮点数相除的值，赋给整型变量，得3。因为计算的结果被截断，未四舍五入。 intAnswer = a / b;

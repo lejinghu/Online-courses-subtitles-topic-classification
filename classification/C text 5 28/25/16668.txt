@@ -1,0 +1,5 @@
+﻿如果自变摄的值是被规格化的浮点数，则isnormal ()宏产生一个非0值（表示mieh 否则isnormal ()产生0。此自变量必须是实数的浮点类型。“将浮点型态至少提升到双 精确度以进行数学计算”，这样的原则在这里并没有被采用；自变置的此项属性是根据实 际的类型和表示形式决定的。
+int isnormal( double x )；
+int isnormal( long double x )；
+范例
+double maximum( double a, double b )

@@ -1,0 +1,10 @@
+﻿C语言的袓先是无类型（type)的编程语言BCPL (the Basic Combined Programming Language), BCPL是Martin Richards开发的,B语言是BCPL的后代，由 Ken Thompson 开发。C语言的新特性主要体现在它具有多种教据类型：字符、数值、数组、结构等。丨978 年，Brian Kernighan和Dennis Ritchie出版了一本有关C语言的正式书籍，这是第-个 实际的C语言标准，这个资料常常被称为“K&R”（注1)。C是很小的内核语言，并包
+?	高效率
+结果，Unix的开发者使用C语言编写出操作系统的大部分程序代码，只有很小的一部分 牵涉到系统特定硬件操作的代码使用汇编语言编写。
+注丨： 为了应对第一个ANS1C标准，此书推出第二版，书名为《C程序设计语言（第2版， 新版）》，作者是 Brian W.Kernighan 和 Dennis M. Ritchie, Prentice Hall 于 1988 年出 版?>中文版由机械1业出版社出版a
+第1章
+C语言的袓先是无类型（type)的编程语言BCPL (the Basic Combined Programming Language), BCPL是Martin Richards开发的,B语言是BCPL的后代，由 Ken Thompson 开发。C语言的新特性主要体现在它具有多种教据类型：字符、数值、数组、结构等。丨978 年，Brian Kernighan和Dennis Ritchie出版了一本有关C语言的正式书籍，这是第-个 实际的C语言标准，这个资料常常被称为“K&R”（注1)。C是很小的内核语言，并包
+?	高效率
+结果，Unix的开发者使用C语言编写出操作系统的大部分程序代码，只有很小的一部分 牵涉到系统特定硬件操作的代码使用汇编语言编写。
+注丨： 为了应对第一个ANS1C标准，此书推出第二版，书名为《C程序设计语言（第2版， 新版）》，作者是 Brian W.Kernighan 和 Dennis M. Ritchie, Prentice Hall 于 1988 年出 版?>中文版由机械1业出版社出版a
+第1章

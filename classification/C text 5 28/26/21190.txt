@@ -1,0 +1,10 @@
+﻿其中，数据域是一个字符类型，指针域是一个指向struct student的结构体指针类型。我们 将这种存在指针指向自己的结构体类型称为自引用类型。
+04	struct student next;	/next是指针域，指向结构体类型struct student/
+05	};
+如果有如下的结构体类型定义:
+01 struct student	
+其中，数据域是一个字符类型，指针域是一个指向struct student的结构体指针类型。我们 将这种存在指针指向自己的结构体类型称为自引用类型。
+04	struct student next;	/next是指针域，指向结构体类型struct student/
+05	};
+如果有如下的结构体类型定义:
+01 struct student	

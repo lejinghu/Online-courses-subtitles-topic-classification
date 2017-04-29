@@ -1,0 +1,5 @@
+﻿需要说明的是，ISO/IEC9899:1999(E)标准（C99)开始允许在switch语句体内定义变量，例如：
+(5)	每个case后面可以有零个或多个语句，称作一个case子句。当case后面有多个语句时不 必加U。
+switch语句的流程：switch语句执行时，先计算选择表达式的值；然后将表达式的值依次与case 常量比较，当与某个case常量的值相等时则执行该case子句。如果遇到break转移语句，则跳出 break所在的那一层switch语句；否则依次继续执行后面的语句，直到switch语句体结束。如果选 择表达式的值与各case常量都不相等，在有default的情况下则执行default子句；否则不执行switch 中的任何语句，此时switch等价于一个空语句。
+switch (expr)
+{

@@ -1,0 +1,5 @@
+﻿/★定义变量★/
+#define STRING "Please input a radius.\nM
+/★STRING 表不字符串 Please input a radius. \n ★/ void main()
+"将 STRING 替换为 Please input a radius .\n ★/ /输入半径r /
+/★求圆的面积s。PI替换为3.1415926 ★/

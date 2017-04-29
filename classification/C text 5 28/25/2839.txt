@@ -1,0 +1,5 @@
+﻿printf ("%s,what's Your weight in pounds?\n",name); scanf ("°/〇f',&weght); //读取浮点数，赋给浮点变量 size = sizeof name;
+printf ("Hi! What's Your first name?\n");
+scanf ("%s", name); /八卖取字符串，赋给数组变量name
+letters = strlen(name); //用strlen函数读取字符数组的长度 volume = weght / DENSITY;
+printf ("Well,%s,your volume is %2.2f cubic feet.\n", name,volume); printf ("Also,your first name has %d letters,\n",letters); printf ("and we have %d bytes to store it in. \n",sZe);

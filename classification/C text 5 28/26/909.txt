@@ -1,0 +1,10 @@
+﻿二维字符型数组一般都是以行为单位存放字符串，与指针访问数值型数组类似，只是访
+printf("The sum of posi-numb in array is %d\n",iSumOfPosi); printf("The number of posi-numb in array is %d\n",iCountOfPosi)；
+2.指针与二维字符数组
+问时常以一行为单位，下面通过例子说明使用方法。
+【例5-10】对存放于二维字符数组中的5个字符串按由小到大排序输出。
+二维字符型数组一般都是以行为单位存放字符串，与指针访问数值型数组类似，只是访
+printf("The sum of posi-numb in array is %d\n",iSumOfPosi); printf("The number of posi-numb in array is %d\n",iCountOfPosi)；
+2.指针与二维字符数组
+问时常以一行为单位，下面通过例子说明使用方法。
+【例5-10】对存放于二维字符数组中的5个字符串按由小到大排序输出。

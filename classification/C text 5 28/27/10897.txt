@@ -1,0 +1,5 @@
+﻿顺便说一下，利用typedef来创建布尔类型是非常好的一种方法：
+typedef enum {CLUBS, DIAMONDS, HEARTS, SPADES} Suit;
+Suit si, s2;
+typedef enum {FALSE, TRUE} Bool;
+16.5.2枚举作为整数

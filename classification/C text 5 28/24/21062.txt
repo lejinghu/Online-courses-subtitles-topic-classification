@@ -1,0 +1,5 @@
+﻿经过以上重新定义变量，COUNT就代表了 int, SCORE就表示了 floak这样，下面两行 代码的定义就是等价的：
+01	typedef int COUNT;	/ 将 int 型重新命名为 COUNT/
+02	typedef float SCORE;	/将float型重新命名为 SCORE/
+01	inta,b,c;	/定义int型变量a、b、c/
+02	COUNTa,b,c;	/定义COUNT型变量a、b, c/

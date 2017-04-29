@@ -1,0 +1,5 @@
+﻿效的变量定义。在共用体定义的末尾，最后一个分号之前，您可以指定一个或多个共用体变量，这是可 选的。下面定义一个名为Data的共用体类型，有三个成员i、f和st「：
+} [one or more union variables];
+union tag是可选的，每个member definition是标准的变量定义，比如int i;或者float f;或者其他有
+union Data {
+int i; float f; chan stn[20]; } data;

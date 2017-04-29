@@ -1,0 +1,5 @@
+﻿fscanfl： fp, M%f&i);	/*从磁盘文件fb.dat中读一个浮点型数据	*/
+fclose( fp);	/*关闭文件	*/
+fp = fopen(Hfb.datM, MrbM);	/*打开一个二进制文件，磁盘文件名为fb.dat*/	
+printf(" i = %5.1f\n", i ); fclose( fp);	关闭文件	*/
+运行结果为：

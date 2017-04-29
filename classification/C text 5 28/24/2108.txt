@@ -1,0 +1,5 @@
+﻿/*定义变量:j */
+/*变量i的定义*/
+/*变量max的定义*/
+01	int get_max(int a[SIZE][SIZE]) {
+02	int	i;

@@ -1,0 +1,5 @@
+﻿char filename[30];r定义一个字符型数组*/ printffplease input filename:\n"); scanf("%s",filename);/* 输入文件名 */
+{
+FILE *fp; char i,j;
+甩(巾=丨0闪咕丨6的阳6,”〇)==?^1_1〇/*判断文件是否打开失败*/
+{

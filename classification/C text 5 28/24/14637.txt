@@ -1,0 +1,10 @@
+﻿可以看出这种方式没有给出结构体名称，如定义变量Productl和Product2: struct
+{
+成员列表 }变置名列表；
+char cName[10];	/* 产 的名称 */
+char cShape[20];	/* 形状 V
+可以看出这种方式没有给出结构体名称，如定义变量Productl和Product2: struct
+{
+成员列表 }变置名列表；
+char cName[10];	/* 产 的名称 */
+char cShape[20];	/* 形状 V

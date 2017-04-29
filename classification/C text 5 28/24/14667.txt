@@ -1,0 +1,10 @@
+﻿(2)	在main函数中，使用声明的结构体类型struct Student定义变量student2,并且进行初始化的
+/*将第一个结构体中的数据输出V printf("the studentl's information:\n"); printf("Name: %s\nH,student1 .cName); printf("Sex: %c\n",student1 .cSex); printf("Grade: %d\n",student1 .iGrade); r将第二个结构体中的数据输出V printf("the student2's information:\n"); printf("Name: %s\n",student2.cName); printf("Sex: %c\n",student2.cSex); printf("Grade: %d\n",student2.iGrade); return 0;
+(1)	在代码中可以看到，声明结构的时候定义studentl并且对其进行初始化操作，将要赋值的内 容放在后面的大括号中，每一个数据都与结构中的成员数据相对应。
+操作。
+(3)	最后将两个结构变童中的成员进行输出，并比较二者数据的区别。
+(2)	在main函数中，使用声明的结构体类型struct Student定义变量student2,并且进行初始化的
+/*将第一个结构体中的数据输出V printf("the studentl's information:\n"); printf("Name: %s\nH,student1 .cName); printf("Sex: %c\n",student1 .cSex); printf("Grade: %d\n",student1 .iGrade); r将第二个结构体中的数据输出V printf("the student2's information:\n"); printf("Name: %s\n",student2.cName); printf("Sex: %c\n",student2.cSex); printf("Grade: %d\n",student2.iGrade); return 0;
+(1)	在代码中可以看到，声明结构的时候定义studentl并且对其进行初始化操作，将要赋值的内 容放在后面的大括号中，每一个数据都与结构中的成员数据相对应。
+操作。
+(3)	最后将两个结构变童中的成员进行输出，并比较二者数据的区别。

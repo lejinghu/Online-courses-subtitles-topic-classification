@@ -1,0 +1,5 @@
+﻿10		float z;	/*定义变量z ★/
+08	int	min(float x, float y)	/★函数定义，求x和y两者中的较小者★/
+09	{		.
+11 12		if(x<y) z=x;	/*如果x小于y，将x赋值给z */
+13 14		else z-y;	/★如果x大于等于y，将y赋值给z ★/

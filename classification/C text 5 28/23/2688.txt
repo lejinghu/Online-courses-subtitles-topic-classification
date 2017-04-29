@@ -1,0 +1,5 @@
+﻿20世纪70年代时，贝尔实验室的Steve Bourne为了使C程序的语法结构具有显式的结束 语句，使用了一系列的宏对象来代替C语言关键字，例如：
+在程序中，只需调用PRI_DIVISION即可实现输出分割线的功能，大大简化了程序的书写。
+2.改变输出结构
+#define STRING char *
+#define VOID void tdefine WHILE while(

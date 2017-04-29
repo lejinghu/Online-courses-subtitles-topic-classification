@@ -1,0 +1,5 @@
+﻿在早期的Kernighan-Ritchie标准中，函数参数的名称和它们的类型声明是区分幵的。函 数声明修饰符（declarator)只包含参数的名称，在函数声明修饰符和函数体之间才卢明 参数。比方说，例7-1的cylinderVolume()函数会变成这样：
+printArray( farray, 123 >;
+K& R风格的函数定义
+//参数声明。
+// Pi是一个常置。

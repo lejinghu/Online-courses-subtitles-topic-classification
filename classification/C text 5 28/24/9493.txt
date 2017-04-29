@@ -1,0 +1,5 @@
+﻿/ * main函数体开始* / /*声明部分定义变量* /
+printf(" Input the first scanf("%d", &a);
+/ * sum函数体结束* / /*主函数* /
+number
+printf(" Input the second number:"〉； scanf("%d", &b);

@@ -1,0 +1,5 @@
+﻿V float a,b,c;		/*定义3个浮点变量*/
+#include<mach.h>
+void Getarea(float,float,float); void main(void) r		/*声明子函数*/
+卩1^1^以"请输入3条边长：_);		/*输出提示信息*/
+scanf("%f%f%f",&a,&b,&c);		/*由健盘输入3个数*/

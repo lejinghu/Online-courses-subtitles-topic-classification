@@ -1,0 +1,5 @@
+﻿关键字const与volatile是C语言中的两个数据类型限定词，均在变量定义中使用。把一 个变量定义为const,意味着该变量的值将不会被改变，而把一个变量定义为volatile,则告诉 编译器不要对该变量进行优化。本节将讨论限定词const和volatile的使用。
+typedef long int32_t; typedef unsigned long ulnt32_t;
+4.5	限定词 const 与 volatile
+4.5.1	使用 const
+限定词const在C语言中的主要作用是定义只读变量。只读变量的值在定义后不能再被 改变。使用const的形式如下：

@@ -1,0 +1,5 @@
+﻿每种方法听起来都有道理的.第一种方法：因为pf指向ToUpper函数/ * pf就是 ToUpper 函数，因此表达式（* pf) (mis)与 ToUpper (ms) —样■从 ToUpper 和 pf 的 声明中就能看出ToUpper和（* pf)是等价的.第二种方法：因为函数名是一个指针，可 以互换地使用指针和函数名，因此pf (ms)与ToLower (mis) —样■从pf的赋值语句 中就能看出pf和ToLower是等价的■历史上,贝尔实验室的C和UNIX的开发者采用 第一种观点，而Berkeley的UNIX的扩展者采用第二个种观点.K&R C不允许第二种 形式■但是为了保持与现在代码的兼容性,ANSI C把这二者作为等价形式全誠妾受.
+(*pf) (mis); /* 把 ToUpper 作用于 ms (语法 1) */ pf = ToLwer;
+pf (ms);	/* 把 ToLower 作用于 mis (语法 2) */
+正如数据丨指针最常见的用法之一是作为函数的参数一样,函数指针最普遍的用法之一 也是作为函数的参数.例如，考虑以下函数原型：
+void show (void (* fp) (char *), char * str);

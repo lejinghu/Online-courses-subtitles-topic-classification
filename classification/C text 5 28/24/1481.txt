@@ -1,0 +1,5 @@
+﻿/ ★定义变量key ★/
+printf(M &key\t= %p\nM, &key); printf("*(&key)\t= %d\nn, *(&key));
+03	i
+04
+05

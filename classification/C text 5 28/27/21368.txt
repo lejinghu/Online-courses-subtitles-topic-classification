@@ -1,0 +1,5 @@
+﻿bool变量与“零值”进行比较的if语句怎么写?
+if语句很简单吧。嗯，的确很简单。那我们就简单的看下面几个简单的问题:
+1.6.1,bool变量与“零值”进行比较
+bool bTestFlag = FALSE;//想想为什么一般初始化为FALSE比较好？
+A)	, if(bTestFlag == 0);	if(bTestFlag == 1);

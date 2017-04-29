@@ -1,0 +1,5 @@
+﻿intx;	/定义变量/
+{
+FILE fp;	/定义文件指针/
+if((fp=fopen("f1 .data"，"wb"))==NULL) /打开文件/
+printf("打开文件f1 .data失败!”); exit(-1);

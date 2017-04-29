@@ -1,0 +1,5 @@
+﻿定义变量i
+main函数盒图
+定义变量sum并赋初值
+for(i=l;i<=n;i-H-)
+| sum+=f2(i,k)

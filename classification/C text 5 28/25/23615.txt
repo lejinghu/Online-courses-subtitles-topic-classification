@@ -1,0 +1,5 @@
+﻿j = fprintf(fp, w%5.ir,i);	/*将一个浮点型数据写入该文件中	*/
+{ FILE *fp; intj; float i; scanfC^/of&i);
+fj) = fopenffb.dat", __wb"); /*新建一个二进制文件，磁盘文件名为fb.dat*/
+printfrij=%dW,j);	/*输出函数返回值	V
+fclose( fp);	/*关闭文件	*/

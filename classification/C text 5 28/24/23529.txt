@@ -1,0 +1,5 @@
+﻿7.2.3直接定义变量
+{ int year, month, day; } workday;
+这里，定义结构类型struct date的同时定义了结构变量workday。
+格式：
+struct

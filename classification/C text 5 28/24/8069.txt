@@ -1,0 +1,5 @@
+﻿12.	若有下面的变量定义，以下语句中合法的是	。
+(D)
+struct stl {int num; int age; };
+int i， a[10]， *p;
+(A) p=a+2;	(B) p=a[5];	(C) p=a[2]+2;	(D) p=&(i+2);

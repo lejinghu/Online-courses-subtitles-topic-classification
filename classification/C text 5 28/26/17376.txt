@@ -1,0 +1,5 @@
+﻿13	putchar(d);	/*输出字符变量d*/
+11	putchar(c);	/*输出字符变量c*/
+12	putchar(c);	/*输出字符变量c*/
+14	putchar^’)；	/*输出回车符
+15		

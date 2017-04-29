@@ -1,0 +1,5 @@
+﻿char cChar2;	广字符型变量cChar2*/
+#include<stdio.h> int mafn()
+char cCharl;	字符型变量cCharl*/
+int ilntl;	T整型变量ilntl*/
+int ilnt2;	r整型变量ilntl*/

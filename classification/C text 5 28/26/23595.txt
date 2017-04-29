@@ -1,0 +1,5 @@
+﻿有的C版本提供的malloc函数得到的是指向字符型数据的指针，必须进行强制类型转换。如: p = ( struct node * ) malloc ( sizeof (struct node));
+Turbo C 2.0提供的malloc函数规定为void *类型。无需进行强制类型转换。如申请一个 新结点，可执行：
+p = malloc (sizeof (struct node));
+(2)	frce(ptr)
+释放由指针ptr所指向的内存区。

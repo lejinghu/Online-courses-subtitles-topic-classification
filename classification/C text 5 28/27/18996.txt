@@ -1,0 +1,5 @@
+﻿for循环用于测试。没有让trial的值除以第一个质数2,因为质数总是奇数。在这个 循环内，把trial除以每个质数的余数存放到bool变量found中。这个余数会自动转换为 bool类型，非0值转换为true, 0转换为false。如果除尽，余数就是0，因此found设置 为false。如果余数是0，就表示trial中的值不是质数，可以继续测试下一个数。
+if(!(found = (trial % *(pPrimes + i))))
+break;	// Exit if zero remainder
+found是false,就执行break语句，终止for循环。
+如果没有一个质数除trial是整除，当所有的质数都试过后，就结束for循环，found 的结果是把最后一个余数(它是某个正整数)转换为bool类型的值true。因此，可以在完 成for循环时，使用存储在found中的值确定是否找到一个新的质数：

@@ -1,0 +1,5 @@
+﻿04	float s;	/*定义一个浮点型变量s */
+02	void add(float x, float y)	/*求两个数的和的函数定义*/
+03	{	
+05	s=x+y;	/*求x与y的和s
+06	printf("%f+%f=%f\n",x,y,s>;	/★输出x与y的和s */

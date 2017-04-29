@@ -1,0 +1,5 @@
+﻿答：strcmp函数的返回值可能是源于函数的传统编写方式。思考Kemightan和Ritchie的77ie C Programing Language一书中的写法?? int strcmp(char *s, char *t)
+}
+问：为什么strcmp函数会返回一个小于、等于或大于0的数？返回值有什么意义吗？（p.178)
+for (i = 0; s[i]==t [i]； i++) if (s[i] == ’、0') return 0 ?
+return s[i] t[i]；

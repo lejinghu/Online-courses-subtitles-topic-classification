@@ -1,0 +1,5 @@
+﻿04	char cl,c2;	/定义两^字符变量cl和c2 /
+02	void main〇
+03	{
+05	printf (”请输入一个小写字母（a?z>: \n"> ; /提示输入小写字母cl ★/
+06	scanf ("%cM,&cl) ;	/输入小写字母 cl /

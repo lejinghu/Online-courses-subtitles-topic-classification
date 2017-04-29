@@ -1,0 +1,5 @@
+﻿26	float z;	/*定义变量★/
+24	float add(float x, float y) /*函数定义，求两个数的和★/	
+25	{	
+27	z=x+y;	/*求两个数的和Z ★/
+28	return z;	/★返回Z ★/

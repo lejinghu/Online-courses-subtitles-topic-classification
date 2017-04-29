@@ -1,0 +1,5 @@
+﻿04	inti;	/定义变量i/
+02	void main()
+03	{
+05	charstr1Q="Can I help you?",str2[30];	/定义字符串strl和str27
+06	for(i=0;str1[i]!='\0';i++)	/通过一个循环将strl的每个字符依次赋值给str2中/

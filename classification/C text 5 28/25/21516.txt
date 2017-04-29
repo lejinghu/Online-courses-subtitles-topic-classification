@@ -1,0 +1,5 @@
+﻿float, double, long double	浮点型		
+C语言数据类型	类型分类		
+short, int, long, long long# ( signed ^0 unsigned) char ( signed 和 unsigned ) —Bool # enum {... }	整型		基本类型
+Complex Imaginary #	复数类型		
+T*	指针类型		

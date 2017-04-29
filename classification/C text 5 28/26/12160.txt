@@ -1,0 +1,5 @@
+﻿例3.7字符变量实例。
+char	1	-128?127
+unsigned char	1	0 ?255
+程序
+#include<stdio.h>

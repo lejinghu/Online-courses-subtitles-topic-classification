@@ -1,0 +1,5 @@
+﻿1)	Brian W. Keraighan and Dennis M. Ritchie
+?	出于兴趣而学习的读者，我能够理解你们“想知道答案”的心情。但是，如果是信息专业的大学生、研究
+生的话，我还是希望你们能够自己来解答这些问题.以增强自己的实力。
+The C Programming Language Second Edition, Prentice Hall, 1988
+2)	American National Standards Institute

@@ -1,0 +1,5 @@
+﻿04	int sum,i;	/*定义变量sum和i,分别表示自然数的和、自然数1-10*/
+01 #include<stdio.h>		
+02	void mainQ 03	{		
+05	sum=0;	
+06	i=1；	/*为变量i賦值为1V

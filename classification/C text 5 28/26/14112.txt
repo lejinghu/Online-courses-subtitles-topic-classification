@@ -1,0 +1,5 @@
+﻿(2)	声明变量cCharl,通过getchar得到输入的字符，賦值给cCharl字符型变量。然后使用putchar 函数将变量进行输出。
+
+	<2>	要使用getchar函数，首先要包括头文件stdio.li?
+(3)	使用getchar函数得到输入过程中的回车符。
+(4)	在putchar函数的参数位置调用getchar函数得到字符，将得到的字符输出?

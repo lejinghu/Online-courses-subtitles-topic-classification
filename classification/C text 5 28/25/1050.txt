@@ -1,0 +1,5 @@
+﻿/*参数：口指向函数的指针，父，7浮点型*/
+/*函数名：〇61^^*/	
+/*功能：通过参数传递函数的入口地址，实现多个函数调用*/
+float GenFun(float(*p)(float,float),float x,float y)
+float z; z = (*p)(x,y); return z; }	/*调用卩指向的函数*/

@@ -1,0 +1,5 @@
+﻿?这些运算符的操作数必须是整数类数据类型或者枚举型。如果应用于浮点型等数据类型的操作数，编译吋就 会出错。
+按位异或运算符	a A b	按位计算a和b的逻辑异或
+??运算符	-a	计算a的反码（将每一位取反之后的值）
+各运算符的英文名称分别是按位与运算符（bitwise AND operator)、按位或运算符（bitwise inclusive OR operator)、按位异或运算符（bitwise exclusive OR operator)、~ 运算符（-operator)。
+另外，~运算符通常称为按位求反运算符。

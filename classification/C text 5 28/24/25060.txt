@@ -1,0 +1,5 @@
+﻿06 07 08	int i;	/★ for(i=l;i<=5;i++) {	定义变量★/	
+02	int funl〇;	/★ funl函数声明★/	
+03 04 05	int fun2(); void main() {	/* fun2函数声明★/	
+09	printf("funl(>	=%4d/M/funl〇) ;	/*调用函数 funl */	
+10 11	printf (*'fun2 () }	=%4d\n,,,fun2() ) ;	/★调用函数 fun2 ★/	

@@ -1,0 +1,5 @@
+﻿浮点变量的声明以及初始化方法同整形变量相同，下面是一些例子:
+C提供了第三种浮点类型long double类型，以满足比double类型更髙的需求。不 过，C只保证long double类型至少同double类型一样精确
+一?声明浮点变量
+float noah,jonah; double trouble; float planck =6.63e-34 long doble gnp;
+二?浮点常量

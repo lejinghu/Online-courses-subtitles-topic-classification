@@ -1,0 +1,5 @@
+﻿我们可以将变量定义为struct date类型，如下所示
+struct date
+int month; int day; int year;
+struct date todaysDate;
+同样，也可以将一个变量定义为指向struct date变量的指针：

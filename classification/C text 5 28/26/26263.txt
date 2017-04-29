@@ -1,0 +1,5 @@
+﻿该环境下各字符型、 char
+#include <stdio.h> #include <limits .h>
+int main (void)
+signed char unsigned char short
+整型数值的范围 0-255 -128?127 0 ?255

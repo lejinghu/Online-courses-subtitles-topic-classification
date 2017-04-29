@@ -1,0 +1,5 @@
+﻿01	char c;	/*定义字符变量*/
+int isalnum( int ch );
+例如，判断输入的字符是否是数字或字母的方法如下:
+02	scanf( "%cn, &c);	输入字符*/
+03	isalnum(c);	/*调用isalnum〇函数判断输入的字符*/

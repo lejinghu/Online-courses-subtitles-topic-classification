@@ -1,0 +1,5 @@
+﻿(iaed宏），329 _B〇〇1 type specifier (_Bool类型说明符），132 Boolean type (布尔类型127,132 conversion (转换)，1&9 values (值），124 bounds c?f arrays (数绝边界)，142 branch cm (分支断点），4&3 bre?k statement (broak语句），277 bsearch facility (bs??rcb￡^)? 417 bt owe function (btowc 函数）t 490 buffered I/O (缓冲I/O ), 363,370 BUP8IZ value (BUFSIS值），370 byte (字节），182
+bool true falsa	d?fiaed macro
+ji^h
+byte input/output functiotis (字节输人/输出函数)，364 byte order (字节颂序），183 byte-oriented stream (面向字节数据流），364 bsero functioQ (bsero^Sc )f 362
+c

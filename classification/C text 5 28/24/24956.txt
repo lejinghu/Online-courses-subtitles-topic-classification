@@ -1,0 +1,5 @@
+﻿float a,b,c;	/定义变量★/
+void main ()
+{
+scanf ("%f, %f ", &a, &b) ;	/输入 a 和 b 的值/
+c=min (a,b) ;	/调用用户函数★/

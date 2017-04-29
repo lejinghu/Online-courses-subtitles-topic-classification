@@ -1,0 +1,5 @@
+﻿【代码解析】程序第3行将key声明为auto变量，又因为该变量定义存在于函数外部，因 此，是全局变量，产生冲突。所以不能在函数外声明auto变量。
+而在GCC环境下，则无法通过编译，提示信息如下:
+12-7:3:top-level declaration of ^ey' specifies 'auto'.
+所有的变量默认为auto变量，无须显式声明auto变量〇
+12.3.3	static 变量

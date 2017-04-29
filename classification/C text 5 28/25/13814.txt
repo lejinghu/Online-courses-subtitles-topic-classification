@@ -1,0 +1,10 @@
+﻿float	定义浮点型变量或指针
+enum	定义枚举类型
+extern	声明外部变量或函数
+for	定义for循环语句
+goto	定义goto语句，实现程序转移
+float	定义浮点型变量或指针
+enum	定义枚举类型
+extern	声明外部变量或函数
+for	定义for循环语句
+goto	定义goto语句，实现程序转移

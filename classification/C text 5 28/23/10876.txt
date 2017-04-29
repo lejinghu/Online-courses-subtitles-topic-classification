@@ -1,0 +1,5 @@
+﻿--Dennis M.	Ritchie
+yet sufficiently abstract and fluent to describe algorithms and	interactions in a wide variety
+of environments.
+为了程序能在UNIX和DOS环境下运行，最好录入命令
+fmt <quote

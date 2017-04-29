@@ -1,0 +1,5 @@
+﻿为了说明刚刚论述的方法，现在用它来做文本格式化的小程序。既然一些操作系统已经有 了名为format的程序，那么就把要编写的程序命名为fmt。作为给fmt的输入样例，将采用文 件quote,假设这个文件包含下列（不完全格式化的）引用语，这些引用语来自DennisM. Ritchie 写的 “ The Development of the C language”（ACM SIGPLAN Notices CMaich 1993): IQ"!):
+些函数是可以和main函数在同一个文件中的。
+程序：文本格式化
+C is quirky, flawed, and an enormous success.	While accidents of history
+surely helped, it evidently	satisfied a need
