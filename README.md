@@ -22,5 +22,5 @@ We "ExtractTitlesAndCut.py" to cut the subtitles into 5-line text segments. Each
 ### Classification
 Classification uses keras. The base code is taken from the [keras blog](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html) <br>
 ## About OCR
-In this project there are two instances where OCR is needed. The first time is when we obtain training data, where we use a commercial software. The second time is when we obtain the titles of each slide from the frames, where we use the API.<br>
+In this project there are two instances where OCR is needed. The first time is when we obtain training data, where we use a commercial software to turn scanned texts into digital texts. The second time is when we obtain the titles of each slide from the frames, where we use the API to recognize the text.<br>
 Out of all the OCR technologies I've tried, ABBYY (www.ocrsdk.com) provides the most accurate outcomes. I hope they can provide more pages for me to complete this project.
